@@ -2,16 +2,9 @@ import dash
 from dash import dcc, html, Input, Output
 import pandas as pd
 import plotly.express as px
-import os
 
-# 1. Determine the where app.py resides
-script_dir = os.path.dirname(os.path.abspath(__file__))
-
-# 2. Build the path to the CSV inside your data/ folder
-csv_path = os.path.join(script_dir, 'data', 'scenarios-local-interpretation.csv')
-
-# 3. Load your data using that absolute path
-df = pd.read_csv(csv_path)
+# Load your data
+df = pd.read_csv('scenarios-local-interpretation.csv')
 
 # Scenario options (add 1 for display)
 scenarios = df['instance'].unique()
