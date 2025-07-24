@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load your data
-df = pd.read_csv('../data/scenarios-local-interpretation.csv')
+df = pd.read_csv('data/scenarios-local-interpretation.csv')
 
 # Scenario options (add 1 for display)
 scenarios = df['instance'].unique()
