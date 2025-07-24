@@ -1,0 +1,392 @@
+instance,feature,value,score,actual,predicted,value_label
+0,Feeling Lonely,1,-0.744618142,1,1,Hardly Ever
+0,Blaming Herself,4,0.302607821,1,1,Often
+0,Life Not Worth Living,1,-0.489845628,1,1,Never
+0,Strong Mum,3,0.632175642,1,1,Sometimes
+0,Goal Likely,1,-0.114170367,1,1,A Lot
+0,Managing Day-to-Day,0,-0.43237131,1,1,Manage Well
+0,Keeping Safety Plan,0,-0.156960997,1,1,Does Not Agree
+0,Bothered by Gambling,1,0.152505137,1,1,Sometimes
+0,Makes Family Proud,2,0.1338698,1,1,Often
+0,Family Gambles,1,0.364025144,1,1,Sometimes
+0,Children in Her Care,-1,-0.73968364,1,1,Skip
+0,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+0,First Pregnancy,1,0.429688927,1,1,Yes
+0,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+0,Need Help With Housing,1,-0.524392114,1,1,Yes
+0,Previous Births,-1,0.543013015,1,1,Skip
+0,Feeling Worried,-1,-0.085895846,1,1,Skip
+0,Told Partner/Husband,0,0.022655194,1,1,No
+0,Partner Angry/Controlling,0,0.028478186,1,1,No
+0,Partner Moody,0,-0.088444295,1,1,No
+0,Blaming Herself & Goal Likely,,1.184044655,1,1,
+0,Goal Likely & Family Gambles,,0.038910118,1,1,
+0,Family Gambles & First Pregnancy,,0.763955999,1,1,
+1,Feeling Lonely,4,1.021427861,1,1,Often
+1,Blaming Herself,4,0.302607821,1,1,Often
+1,Life Not Worth Living,4,1.650712664,1,1,Often
+1,Strong Mum,2,0.632175642,1,1,Often
+1,Goal Likely,4,0.358821155,1,1,Not at all
+1,Managing Day-to-Day,0,-0.43237131,1,1,Manage Well
+1,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+1,Bothered by Gambling,-1,-0.043660745,1,1,Skip
+1,Makes Family Proud,1,-0.157628263,1,1,Almost Always
+1,Family Gambles,0,-0.140861903,1,1,No
+1,Children in Her Care,1,0.694718069,1,1,1
+1,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+1,First Pregnancy,0,-0.266101772,1,1,No
+1,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+1,Need Help With Housing,0,0.091744477,1,1,No
+1,Previous Births,2,-0.567378984,1,1,2
+1,Feeling Worried,-1,-0.085895846,1,1,Skip
+1,Told Partner/Husband,1,-0.013122068,1,1,Yes
+1,Partner Angry/Controlling,0,0.028478186,1,1,No
+1,Partner Moody,0,-0.088444295,1,1,No
+1,Blaming Herself & Goal Likely,,0.675176937,1,1,
+1,Goal Likely & Family Gambles,,-0.578866921,1,1,
+1,Family Gambles & First Pregnancy,,0.209576424,1,1,
+2,Feeling Lonely,4,1.021427861,1,1,Often
+2,Blaming Herself,3,0.302607821,1,1,Sometimes
+2,Life Not Worth Living,5,1.650712664,1,1,Almost Always
+2,Strong Mum,4,0.632175642,1,1,A Little
+2,Goal Likely,2,0.358821155,1,1,A fair amount
+2,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
+2,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+2,Bothered by Gambling,1,0.152505137,1,1,Sometimes
+2,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
+2,Family Gambles,2,0.364025144,1,1,Yes
+2,Children in Her Care,0,0.694718069,1,1,0
+2,Smoking Cigarettes in Pregnancy,1,-0.070503112,1,1,Sometimes
+2,First Pregnancy,0,-0.266101772,1,1,No
+2,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+2,Need Help With Housing,1,-0.524392114,1,1,Yes
+2,Previous Births,2,-0.567378984,1,1,2
+2,Feeling Worried,-1,-0.085895846,1,1,Skip
+2,Told Partner/Husband,0,0.022655194,1,1,No
+2,Partner Angry/Controlling,1,-0.644450795,1,1,Yes
+2,Partner Moody,1,0.608191016,1,1,Yes
+2,Blaming Herself & Goal Likely,,0.702492046,1,1,
+2,Goal Likely & Family Gambles,,-0.071258261,1,1,
+2,Family Gambles & First Pregnancy,,-0.10810807,1,1,
+3,Feeling Lonely,4,1.021427861,1,1,Often
+3,Blaming Herself,4,0.302607821,1,1,Often
+3,Life Not Worth Living,5,1.650712664,1,1,Almost Always
+3,Strong Mum,5,0.632175642,1,1,Hardly Ever
+3,Goal Likely,1,-0.114170367,1,1,A Lot
+3,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
+3,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+3,Bothered by Gambling,0,0.152505137,1,1,Never
+3,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
+3,Family Gambles,2,0.364025144,1,1,Yes
+3,Children in Her Care,0,0.694718069,1,1,0
+3,Smoking Cigarettes in Pregnancy,2,-0.070503112,1,1,Yes
+3,First Pregnancy,0,-0.266101772,1,1,No
+3,Trouble Sleeping,1,-0.167751217,1,1,Sleeping Well
+3,Need Help With Housing,1,-0.524392114,1,1,Yes
+3,Previous Births,4,-0.567378984,1,1,4+
+3,Feeling Worried,1,1.055803102,1,1,Yes
+3,Told Partner/Husband,0,0.022655194,1,1,No
+3,Partner Angry/Controlling,0,0.028478186,1,1,No
+3,Partner Moody,0,-0.088444295,1,1,No
+3,Blaming Herself & Goal Likely,,1.184044655,1,1,
+3,Goal Likely & Family Gambles,,0.319072864,1,1,
+3,Family Gambles & First Pregnancy,,-0.10810807,1,1,
+4,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
+4,Blaming Herself,1,-0.349634712,0,0,Hardly Ever
+4,Life Not Worth Living,1,-0.489845628,0,0,Never
+4,Strong Mum,2,0.632175642,0,0,Often
+4,Goal Likely,1,-0.114170367,0,0,A Lot
+4,Managing Day-to-Day,0,-0.43237131,0,0,Manage Well
+4,Keeping Safety Plan,1,-0.156960997,0,0,Client Agrees
+4,Bothered by Gambling,0,0.152505137,0,0,Never
+4,Makes Family Proud,1,-0.157628263,0,0,Almost Always
+4,Family Gambles,0,-0.140861903,0,0,No
+4,Children in Her Care,-1,-0.73968364,0,0,Skip
+4,Smoking Cigarettes in Pregnancy,-1,0.018392116,0,0,Skip
+4,First Pregnancy,1,0.429688927,0,0,Yes
+4,Trouble Sleeping,1,-0.167751217,0,0,Sleeping Well
+4,Need Help With Housing,0,0.091744477,0,0,No
+4,Previous Births,-1,0.543013015,0,0,Skip
+4,Feeling Worried,-1,-0.085895846,0,0,Skip
+4,Told Partner/Husband,1,-0.013122068,0,0,Yes
+4,Partner Angry/Controlling,0,0.028478186,0,0,No
+4,Partner Moody,0,-0.088444295,0,0,No
+4,Blaming Herself & Goal Likely,,-0.048080167,0,0,
+4,Goal Likely & Family Gambles,,0.111625444,0,0,
+4,Family Gambles & First Pregnancy,,-0.602811949,0,0,
+5,Feeling Lonely,5,1.021427861,1,1,Almost Always
+5,Blaming Herself,5,0.302607821,1,1,Almost Always
+5,Life Not Worth Living,3,1.650712664,1,1,Sometimes
+5,Strong Mum,1,-0.371127989,1,1,Almost Always
+5,Goal Likely,2,0.358821155,1,1,A fair amount
+5,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
+5,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+5,Bothered by Gambling,0,0.152505137,1,1,Never
+5,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
+5,Family Gambles,0,-0.140861903,1,1,No
+5,Children in Her Care,1,0.694718069,1,1,1
+5,Smoking Cigarettes in Pregnancy,1,-0.070503112,1,1,Sometimes
+5,First Pregnancy,0,-0.266101772,1,1,No
+5,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+5,Need Help With Housing,0,0.091744477,1,1,No
+5,Previous Births,1,-0.567378984,1,1,1
+5,Feeling Worried,-1,-0.085895846,1,1,Skip
+5,Told Partner/Husband,1,-0.013122068,1,1,Yes
+5,Partner Angry/Controlling,0,0.028478186,1,1,No
+5,Partner Moody,0,-0.088444295,1,1,No
+5,Blaming Herself & Goal Likely,,1.67896849,1,1,
+5,Goal Likely & Family Gambles,,-0.0741839,1,1,
+5,Family Gambles & First Pregnancy,,0.209576424,1,1,
+6,Feeling Lonely,2,1.021427861,1,1,A Little
+6,Blaming Herself,3,0.302607821,1,1,Sometimes
+6,Life Not Worth Living,2,1.650712664,1,1,Rarely
+6,Strong Mum,4,0.632175642,1,1,A Little
+6,Goal Likely,2,0.358821155,1,1,A fair amount
+6,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
+6,Keeping Safety Plan,0,-0.156960997,1,1,Does Not Agree
+6,Bothered by Gambling,-1,-0.043660745,1,1,Skip
+6,Makes Family Proud,4,0.1338698,1,1,A Little
+6,Family Gambles,1,0.364025144,1,1,Sometimes
+6,Children in Her Care,0,0.694718069,1,1,0
+6,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+6,First Pregnancy,0,-0.266101772,1,1,No
+6,Trouble Sleeping,1,-0.167751217,1,1,Sleeping Well
+6,Need Help With Housing,1,-0.524392114,1,1,Yes
+6,Previous Births,2,-0.567378984,1,1,2
+6,Feeling Worried,-1,-0.085895846,1,1,Skip
+6,Told Partner/Husband,1,-0.013122068,1,1,Yes
+6,Partner Angry/Controlling,0,0.028478186,1,1,No
+6,Partner Moody,0,-0.088444295,1,1,No
+6,Blaming Herself & Goal Likely,,0.702492046,1,1,
+6,Goal Likely & Family Gambles,,0.072690026,1,1,
+6,Family Gambles & First Pregnancy,,-0.715469533,1,1,
+7,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
+7,Blaming Herself,2,0.302607821,0,0,A Little
+7,Life Not Worth Living,1,-0.489845628,0,0,Never
+7,Strong Mum,1,-0.371127989,0,0,Almost Always
+7,Goal Likely,1,-0.114170367,0,0,A Lot
+7,Managing Day-to-Day,1,0.906720417,0,0,Struggle A Bit
+7,Keeping Safety Plan,1,-0.156960997,0,0,Client Agrees
+7,Bothered by Gambling,0,0.152505137,0,0,Never
+7,Makes Family Proud,2,0.1338698,0,0,Often
+7,Family Gambles,1,0.364025144,0,0,Sometimes
+7,Children in Her Care,1,0.694718069,0,0,1
+7,Smoking Cigarettes in Pregnancy,1,-0.070503112,0,0,Sometimes
+7,First Pregnancy,0,-0.266101772,0,0,No
+7,Trouble Sleeping,2,0.443821792,0,0,Trouble Sleeping
+7,Need Help With Housing,0,0.091744477,0,0,No
+7,Previous Births,1,-0.567378984,0,0,1
+7,Feeling Worried,-1,-0.085895846,0,0,Skip
+7,Told Partner/Husband,0,0.022655194,0,0,No
+7,Partner Angry/Controlling,0,0.028478186,0,0,No
+7,Partner Moody,0,-0.088444295,0,0,No
+7,Blaming Herself & Goal Likely,,-0.198080493,0,0,
+7,Goal Likely & Family Gambles,,0.038910118,0,0,
+7,Family Gambles & First Pregnancy,,-0.715469533,0,0,
+8,Feeling Lonely,1,-0.744618142,0,1,Hardly Ever
+8,Blaming Herself,2,0.302607821,0,1,A Little
+8,Life Not Worth Living,1,-0.489845628,0,1,Never
+8,Strong Mum,1,-0.371127989,0,1,Almost Always
+8,Goal Likely,-1,-0.114170367,0,1,Skip
+8,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
+8,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
+8,Bothered by Gambling,0,0.152505137,0,1,Never
+8,Makes Family Proud,1,-0.157628263,0,1,Almost Always
+8,Family Gambles,2,0.364025144,0,1,Yes
+8,Children in Her Care,3,0.694718069,0,1,3
+8,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
+8,First Pregnancy,0,-0.266101772,0,1,No
+8,Trouble Sleeping,2,0.443821792,0,1,Trouble Sleeping
+8,Need Help With Housing,0,0.091744477,0,1,No
+8,Previous Births,4,-0.567378984,0,1,4+
+8,Feeling Worried,-1,-0.085895846,0,1,Skip
+8,Told Partner/Husband,1,-0.013122068,0,1,Yes
+8,Partner Angry/Controlling,0,0.028478186,0,1,No
+8,Partner Moody,1,0.608191016,0,1,Yes
+8,Blaming Herself & Goal Likely,,-0.9827651,0,1,
+8,Goal Likely & Family Gambles,,0.824938868,0,1,
+8,Family Gambles & First Pregnancy,,-0.10810807,0,1,
+9,Feeling Lonely,2,1.021427861,1,1,A Little
+9,Blaming Herself,2,0.302607821,1,1,A Little
+9,Life Not Worth Living,2,1.650712664,1,1,Rarely
+9,Strong Mum,2,0.632175642,1,1,Often
+9,Goal Likely,1,-0.114170367,1,1,A Lot
+9,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
+9,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+9,Bothered by Gambling,-1,-0.043660745,1,1,Skip
+9,Makes Family Proud,4,0.1338698,1,1,A Little
+9,Family Gambles,2,0.364025144,1,1,Yes
+9,Children in Her Care,1,0.694718069,1,1,1
+9,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+9,First Pregnancy,0,-0.266101772,1,1,No
+9,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+9,Need Help With Housing,0,0.091744477,1,1,No
+9,Previous Births,3,-0.567378984,1,1,3
+9,Feeling Worried,-1,-0.085895846,1,1,Skip
+9,Told Partner/Husband,0,0.022655194,1,1,No
+9,Partner Angry/Controlling,0,0.028478186,1,1,No
+9,Partner Moody,0,-0.088444295,1,1,No
+9,Blaming Herself & Goal Likely,,-0.198080493,1,1,
+9,Goal Likely & Family Gambles,,0.319072864,1,1,
+9,Family Gambles & First Pregnancy,,-0.10810807,1,1,
+10,Feeling Lonely,3,1.021427861,1,1,Sometimes
+10,Blaming Herself,3,0.302607821,1,1,Sometimes
+10,Life Not Worth Living,3,1.650712664,1,1,Sometimes
+10,Strong Mum,3,0.632175642,1,1,Sometimes
+10,Goal Likely,1,-0.114170367,1,1,A Lot
+10,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
+10,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+10,Bothered by Gambling,1,0.152505137,1,1,Sometimes
+10,Makes Family Proud,4,0.1338698,1,1,A Little
+10,Family Gambles,1,0.364025144,1,1,Sometimes
+10,Children in Her Care,-1,-0.73968364,1,1,Skip
+10,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+10,First Pregnancy,1,0.429688927,1,1,Yes
+10,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+10,Need Help With Housing,1,-0.524392114,1,1,Yes
+10,Previous Births,-1,0.543013015,1,1,Skip
+10,Feeling Worried,1,1.055803102,1,1,Yes
+10,Told Partner/Husband,0,0.022655194,1,1,No
+10,Partner Angry/Controlling,0,0.028478186,1,1,No
+10,Partner Moody,0,-0.088444295,1,1,No
+10,Blaming Herself & Goal Likely,,0.682490008,1,1,
+10,Goal Likely & Family Gambles,,0.038910118,1,1,
+10,Family Gambles & First Pregnancy,,0.763955999,1,1,
+11,Feeling Lonely,3,1.021427861,1,1,Sometimes
+11,Blaming Herself,2,0.302607821,1,1,A Little
+11,Life Not Worth Living,3,1.650712664,1,1,Sometimes
+11,Strong Mum,3,0.632175642,1,1,Sometimes
+11,Goal Likely,1,-0.114170367,1,1,A Lot
+11,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
+11,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+11,Bothered by Gambling,0,0.152505137,1,1,Never
+11,Makes Family Proud,3,0.1338698,1,1,Sometimes
+11,Family Gambles,0,-0.140861903,1,1,No
+11,Children in Her Care,-1,-0.73968364,1,1,Skip
+11,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
+11,First Pregnancy,1,0.429688927,1,1,Yes
+11,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+11,Need Help With Housing,0,0.091744477,1,1,No
+11,Previous Births,-1,0.543013015,1,1,Skip
+11,Feeling Worried,1,1.055803102,1,1,Yes
+11,Told Partner/Husband,0,0.022655194,1,1,No
+11,Partner Angry/Controlling,0,0.028478186,1,1,No
+11,Partner Moody,0,-0.088444295,1,1,No
+11,Blaming Herself & Goal Likely,,-0.198080493,1,1,
+11,Goal Likely & Family Gambles,,0.111625444,1,1,
+11,Family Gambles & First Pregnancy,,-0.602811949,1,1,
+12,Feeling Lonely,3,1.021427861,1,1,Sometimes
+12,Blaming Herself,2,0.302607821,1,1,A Little
+12,Life Not Worth Living,1,-0.489845628,1,1,Never
+12,Strong Mum,2,0.632175642,1,1,Often
+12,Goal Likely,1,-0.114170367,1,1,A Lot
+12,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
+12,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+12,Bothered by Gambling,0,0.152505137,1,1,Never
+12,Makes Family Proud,2,0.1338698,1,1,Often
+12,Family Gambles,0,-0.140861903,1,1,No
+12,Children in Her Care,1,0.694718069,1,1,1
+12,Smoking Cigarettes in Pregnancy,-1,0.018392116,1,1,Skip
+12,First Pregnancy,0,-0.266101772,1,1,No
+12,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+12,Need Help With Housing,0,0.091744477,1,1,No
+12,Previous Births,1,-0.567378984,1,1,1
+12,Feeling Worried,-1,-0.085895846,1,1,Skip
+12,Told Partner/Husband,1,-0.013122068,1,1,Yes
+12,Partner Angry/Controlling,0,0.028478186,1,1,No
+12,Partner Moody,0,-0.088444295,1,1,No
+12,Blaming Herself & Goal Likely,,-0.198080493,1,1,
+12,Goal Likely & Family Gambles,,0.111625444,1,1,
+12,Family Gambles & First Pregnancy,,0.209576424,1,1,
+13,Feeling Lonely,3,1.021427861,0,1,Sometimes
+13,Blaming Herself,3,0.302607821,0,1,Sometimes
+13,Life Not Worth Living,1,-0.489845628,0,1,Never
+13,Strong Mum,3,0.632175642,0,1,Sometimes
+13,Goal Likely,-1,-0.114170367,0,1,Skip
+13,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
+13,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
+13,Bothered by Gambling,0,0.152505137,0,1,Never
+13,Makes Family Proud,3,0.1338698,0,1,Sometimes
+13,Family Gambles,-1,-0.140861903,0,1,Skip
+13,Children in Her Care,0,0.694718069,0,1,0
+13,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
+13,First Pregnancy,0,-0.266101772,0,1,No
+13,Trouble Sleeping,2,0.443821792,0,1,Trouble Sleeping
+13,Need Help With Housing,0,0.091744477,0,1,No
+13,Previous Births,1,-0.567378984,0,1,1
+13,Feeling Worried,1,1.055803102,0,1,Yes
+13,Told Partner/Husband,1,-0.013122068,0,1,Yes
+13,Partner Angry/Controlling,0,0.028478186,0,1,No
+13,Partner Moody,0,-0.088444295,0,1,No
+13,Blaming Herself & Goal Likely,,-0.161154366,0,1,
+13,Goal Likely & Family Gambles,,-1.411035033,0,1,
+13,Family Gambles & First Pregnancy,,-0.512653651,0,1,
+14,Feeling Lonely,1,-0.744618142,0,1,Hardly Ever
+14,Blaming Herself,2,0.302607821,0,1,A Little
+14,Life Not Worth Living,1,-0.489845628,0,1,Never
+14,Strong Mum,3,0.632175642,0,1,Sometimes
+14,Goal Likely,1,-0.114170367,0,1,A Lot
+14,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
+14,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
+14,Bothered by Gambling,0,0.152505137,0,1,Never
+14,Makes Family Proud,2,0.1338698,0,1,Often
+14,Family Gambles,0,-0.140861903,0,1,No
+14,Children in Her Care,2,0.694718069,0,1,2
+14,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
+14,First Pregnancy,0,-0.266101772,0,1,No
+14,Trouble Sleeping,1,-0.167751217,0,1,Sleeping Well
+14,Need Help With Housing,0,0.091744477,0,1,No
+14,Previous Births,2,-0.567378984,0,1,2
+14,Feeling Worried,-1,-0.085895846,0,1,Skip
+14,Told Partner/Husband,1,-0.013122068,0,1,Yes
+14,Partner Angry/Controlling,0,0.028478186,0,1,No
+14,Partner Moody,0,-0.088444295,0,1,No
+14,Blaming Herself & Goal Likely,,-0.198080493,0,1,
+14,Goal Likely & Family Gambles,,0.111625444,0,1,
+14,Family Gambles & First Pregnancy,,0.209576424,0,1,
+15,Feeling Lonely,3,1.021427861,1,1,Sometimes
+15,Blaming Herself,2,0.302607821,1,1,A Little
+15,Life Not Worth Living,3,1.650712664,1,1,Sometimes
+15,Strong Mum,4,0.632175642,1,1,A Little
+15,Goal Likely,1,-0.114170367,1,1,A Lot
+15,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
+15,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
+15,Bothered by Gambling,0,0.152505137,1,1,Never
+15,Makes Family Proud,4,0.1338698,1,1,A Little
+15,Family Gambles,0,-0.140861903,1,1,No
+15,Children in Her Care,0,0.694718069,1,1,0
+15,Smoking Cigarettes in Pregnancy,2,-0.070503112,1,1,Yes
+15,First Pregnancy,0,-0.266101772,1,1,No
+15,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
+15,Need Help With Housing,1,-0.524392114,1,1,Yes
+15,Previous Births,2,-0.567378984,1,1,2
+15,Feeling Worried,1,1.055803102,1,1,Yes
+15,Told Partner/Husband,1,-0.013122068,1,1,Yes
+15,Partner Angry/Controlling,0,0.028478186,1,1,No
+15,Partner Moody,0,-0.088444295,1,1,No
+15,Blaming Herself & Goal Likely,,-0.198080493,1,1,
+15,Goal Likely & Family Gambles,,0.111625444,1,1,
+15,Family Gambles & First Pregnancy,,0.209576424,1,1,
+16,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
+16,Blaming Herself,2,0.302607821,0,0,A Little
+16,Life Not Worth Living,1,-0.489845628,0,0,Never
+16,Strong Mum,1,-0.371127989,0,0,Almost Always
+16,Goal Likely,-1,-0.114170367,0,0,Skip
+16,Managing Day-to-Day,2,0.906720417,0,0,Struggle A Lot
+16,Keeping Safety Plan,0,-0.156960997,0,0,Does Not Agree
+16,Bothered by Gambling,0,0.152505137,0,0,Never
+16,Makes Family Proud,1,-0.157628263,0,0,Almost Always
+16,Family Gambles,0,-0.140861903,0,0,No
+16,Children in Her Care,1,0.694718069,0,0,1
+16,Smoking Cigarettes in Pregnancy,1,-0.070503112,0,0,Sometimes
+16,First Pregnancy,0,-0.266101772,0,0,No
+16,Trouble Sleeping,2,0.443821792,0,0,Trouble Sleeping
+16,Need Help With Housing,0,0.091744477,0,0,No
+16,Previous Births,1,-0.567378984,0,0,1
+16,Feeling Worried,-1,-0.085895846,0,0,Skip
+16,Told Partner/Husband,1,-0.013122068,0,0,Yes
+16,Partner Angry/Controlling,0,0.028478186,0,0,No
+16,Partner Moody,0,-0.088444295,0,0,No
+16,Blaming Herself & Goal Likely,,-0.9827651,0,0,
+16,Goal Likely & Family Gambles,,-0.486125409,0,0,
+16,Family Gambles & First Pregnancy,,0.209576424,0,0,
