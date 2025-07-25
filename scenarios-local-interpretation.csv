@@ -1,392 +1,581 @@
-instance,feature,value,score,actual,predicted,value_label
-0,Feeling Lonely,1,-0.744618142,1,1,Hardly Ever
-0,Blaming Herself,4,0.302607821,1,1,Often
-0,Life Not Worth Living,1,-0.489845628,1,1,Never
-0,Strong Mum,3,0.632175642,1,1,Sometimes
-0,Goal Likely,1,-0.114170367,1,1,A Lot
-0,Managing Day-to-Day,0,-0.43237131,1,1,Manage Well
-0,Keeping Safety Plan,0,-0.156960997,1,1,Does Not Agree
-0,Bothered by Gambling,1,0.152505137,1,1,Sometimes
-0,Makes Family Proud,2,0.1338698,1,1,Often
-0,Family Gambles,1,0.364025144,1,1,Sometimes
-0,Children in Her Care,-1,-0.73968364,1,1,Skip
-0,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-0,First Pregnancy,1,0.429688927,1,1,Yes
-0,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-0,Need Help With Housing,1,-0.524392114,1,1,Yes
-0,Previous Births,-1,0.543013015,1,1,Skip
-0,Feeling Worried,-1,-0.085895846,1,1,Skip
-0,Told Partner/Husband,0,0.022655194,1,1,No
-0,Partner Angry/Controlling,0,0.028478186,1,1,No
-0,Partner Moody,0,-0.088444295,1,1,No
-0,Blaming Herself & Goal Likely,,1.184044655,1,1,
-0,Goal Likely & Family Gambles,,0.038910118,1,1,
-0,Family Gambles & First Pregnancy,,0.763955999,1,1,
-1,Feeling Lonely,4,1.021427861,1,1,Often
-1,Blaming Herself,4,0.302607821,1,1,Often
-1,Life Not Worth Living,4,1.650712664,1,1,Often
-1,Strong Mum,2,0.632175642,1,1,Often
-1,Goal Likely,4,0.358821155,1,1,Not at all
-1,Managing Day-to-Day,0,-0.43237131,1,1,Manage Well
-1,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-1,Bothered by Gambling,-1,-0.043660745,1,1,Skip
-1,Makes Family Proud,1,-0.157628263,1,1,Almost Always
-1,Family Gambles,0,-0.140861903,1,1,No
-1,Children in Her Care,1,0.694718069,1,1,1
-1,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-1,First Pregnancy,0,-0.266101772,1,1,No
-1,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-1,Need Help With Housing,0,0.091744477,1,1,No
-1,Previous Births,2,-0.567378984,1,1,2
-1,Feeling Worried,-1,-0.085895846,1,1,Skip
-1,Told Partner/Husband,1,-0.013122068,1,1,Yes
-1,Partner Angry/Controlling,0,0.028478186,1,1,No
-1,Partner Moody,0,-0.088444295,1,1,No
-1,Blaming Herself & Goal Likely,,0.675176937,1,1,
-1,Goal Likely & Family Gambles,,-0.578866921,1,1,
-1,Family Gambles & First Pregnancy,,0.209576424,1,1,
-2,Feeling Lonely,4,1.021427861,1,1,Often
-2,Blaming Herself,3,0.302607821,1,1,Sometimes
-2,Life Not Worth Living,5,1.650712664,1,1,Almost Always
-2,Strong Mum,4,0.632175642,1,1,A Little
-2,Goal Likely,2,0.358821155,1,1,A fair amount
-2,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
-2,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-2,Bothered by Gambling,1,0.152505137,1,1,Sometimes
-2,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
-2,Family Gambles,2,0.364025144,1,1,Yes
-2,Children in Her Care,0,0.694718069,1,1,0
-2,Smoking Cigarettes in Pregnancy,1,-0.070503112,1,1,Sometimes
-2,First Pregnancy,0,-0.266101772,1,1,No
-2,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-2,Need Help With Housing,1,-0.524392114,1,1,Yes
-2,Previous Births,2,-0.567378984,1,1,2
-2,Feeling Worried,-1,-0.085895846,1,1,Skip
-2,Told Partner/Husband,0,0.022655194,1,1,No
-2,Partner Angry/Controlling,1,-0.644450795,1,1,Yes
-2,Partner Moody,1,0.608191016,1,1,Yes
-2,Blaming Herself & Goal Likely,,0.702492046,1,1,
-2,Goal Likely & Family Gambles,,-0.071258261,1,1,
-2,Family Gambles & First Pregnancy,,-0.10810807,1,1,
-3,Feeling Lonely,4,1.021427861,1,1,Often
-3,Blaming Herself,4,0.302607821,1,1,Often
-3,Life Not Worth Living,5,1.650712664,1,1,Almost Always
-3,Strong Mum,5,0.632175642,1,1,Hardly Ever
-3,Goal Likely,1,-0.114170367,1,1,A Lot
-3,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
-3,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-3,Bothered by Gambling,0,0.152505137,1,1,Never
-3,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
-3,Family Gambles,2,0.364025144,1,1,Yes
-3,Children in Her Care,0,0.694718069,1,1,0
-3,Smoking Cigarettes in Pregnancy,2,-0.070503112,1,1,Yes
-3,First Pregnancy,0,-0.266101772,1,1,No
-3,Trouble Sleeping,1,-0.167751217,1,1,Sleeping Well
-3,Need Help With Housing,1,-0.524392114,1,1,Yes
-3,Previous Births,4,-0.567378984,1,1,4+
-3,Feeling Worried,1,1.055803102,1,1,Yes
-3,Told Partner/Husband,0,0.022655194,1,1,No
-3,Partner Angry/Controlling,0,0.028478186,1,1,No
-3,Partner Moody,0,-0.088444295,1,1,No
-3,Blaming Herself & Goal Likely,,1.184044655,1,1,
-3,Goal Likely & Family Gambles,,0.319072864,1,1,
-3,Family Gambles & First Pregnancy,,-0.10810807,1,1,
-4,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
-4,Blaming Herself,1,-0.349634712,0,0,Hardly Ever
-4,Life Not Worth Living,1,-0.489845628,0,0,Never
-4,Strong Mum,2,0.632175642,0,0,Often
-4,Goal Likely,1,-0.114170367,0,0,A Lot
-4,Managing Day-to-Day,0,-0.43237131,0,0,Manage Well
-4,Keeping Safety Plan,1,-0.156960997,0,0,Client Agrees
-4,Bothered by Gambling,0,0.152505137,0,0,Never
-4,Makes Family Proud,1,-0.157628263,0,0,Almost Always
-4,Family Gambles,0,-0.140861903,0,0,No
-4,Children in Her Care,-1,-0.73968364,0,0,Skip
-4,Smoking Cigarettes in Pregnancy,-1,0.018392116,0,0,Skip
-4,First Pregnancy,1,0.429688927,0,0,Yes
-4,Trouble Sleeping,1,-0.167751217,0,0,Sleeping Well
-4,Need Help With Housing,0,0.091744477,0,0,No
-4,Previous Births,-1,0.543013015,0,0,Skip
-4,Feeling Worried,-1,-0.085895846,0,0,Skip
-4,Told Partner/Husband,1,-0.013122068,0,0,Yes
-4,Partner Angry/Controlling,0,0.028478186,0,0,No
-4,Partner Moody,0,-0.088444295,0,0,No
-4,Blaming Herself & Goal Likely,,-0.048080167,0,0,
-4,Goal Likely & Family Gambles,,0.111625444,0,0,
-4,Family Gambles & First Pregnancy,,-0.602811949,0,0,
-5,Feeling Lonely,5,1.021427861,1,1,Almost Always
-5,Blaming Herself,5,0.302607821,1,1,Almost Always
-5,Life Not Worth Living,3,1.650712664,1,1,Sometimes
-5,Strong Mum,1,-0.371127989,1,1,Almost Always
-5,Goal Likely,2,0.358821155,1,1,A fair amount
-5,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
-5,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-5,Bothered by Gambling,0,0.152505137,1,1,Never
-5,Makes Family Proud,5,0.1338698,1,1,Hardly Ever
-5,Family Gambles,0,-0.140861903,1,1,No
-5,Children in Her Care,1,0.694718069,1,1,1
-5,Smoking Cigarettes in Pregnancy,1,-0.070503112,1,1,Sometimes
-5,First Pregnancy,0,-0.266101772,1,1,No
-5,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-5,Need Help With Housing,0,0.091744477,1,1,No
-5,Previous Births,1,-0.567378984,1,1,1
-5,Feeling Worried,-1,-0.085895846,1,1,Skip
-5,Told Partner/Husband,1,-0.013122068,1,1,Yes
-5,Partner Angry/Controlling,0,0.028478186,1,1,No
-5,Partner Moody,0,-0.088444295,1,1,No
-5,Blaming Herself & Goal Likely,,1.67896849,1,1,
-5,Goal Likely & Family Gambles,,-0.0741839,1,1,
-5,Family Gambles & First Pregnancy,,0.209576424,1,1,
-6,Feeling Lonely,2,1.021427861,1,1,A Little
-6,Blaming Herself,3,0.302607821,1,1,Sometimes
-6,Life Not Worth Living,2,1.650712664,1,1,Rarely
-6,Strong Mum,4,0.632175642,1,1,A Little
-6,Goal Likely,2,0.358821155,1,1,A fair amount
-6,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
-6,Keeping Safety Plan,0,-0.156960997,1,1,Does Not Agree
-6,Bothered by Gambling,-1,-0.043660745,1,1,Skip
-6,Makes Family Proud,4,0.1338698,1,1,A Little
-6,Family Gambles,1,0.364025144,1,1,Sometimes
-6,Children in Her Care,0,0.694718069,1,1,0
-6,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-6,First Pregnancy,0,-0.266101772,1,1,No
-6,Trouble Sleeping,1,-0.167751217,1,1,Sleeping Well
-6,Need Help With Housing,1,-0.524392114,1,1,Yes
-6,Previous Births,2,-0.567378984,1,1,2
-6,Feeling Worried,-1,-0.085895846,1,1,Skip
-6,Told Partner/Husband,1,-0.013122068,1,1,Yes
-6,Partner Angry/Controlling,0,0.028478186,1,1,No
-6,Partner Moody,0,-0.088444295,1,1,No
-6,Blaming Herself & Goal Likely,,0.702492046,1,1,
-6,Goal Likely & Family Gambles,,0.072690026,1,1,
-6,Family Gambles & First Pregnancy,,-0.715469533,1,1,
-7,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
-7,Blaming Herself,2,0.302607821,0,0,A Little
-7,Life Not Worth Living,1,-0.489845628,0,0,Never
-7,Strong Mum,1,-0.371127989,0,0,Almost Always
-7,Goal Likely,1,-0.114170367,0,0,A Lot
-7,Managing Day-to-Day,1,0.906720417,0,0,Struggle A Bit
-7,Keeping Safety Plan,1,-0.156960997,0,0,Client Agrees
-7,Bothered by Gambling,0,0.152505137,0,0,Never
-7,Makes Family Proud,2,0.1338698,0,0,Often
-7,Family Gambles,1,0.364025144,0,0,Sometimes
-7,Children in Her Care,1,0.694718069,0,0,1
-7,Smoking Cigarettes in Pregnancy,1,-0.070503112,0,0,Sometimes
-7,First Pregnancy,0,-0.266101772,0,0,No
-7,Trouble Sleeping,2,0.443821792,0,0,Trouble Sleeping
-7,Need Help With Housing,0,0.091744477,0,0,No
-7,Previous Births,1,-0.567378984,0,0,1
-7,Feeling Worried,-1,-0.085895846,0,0,Skip
-7,Told Partner/Husband,0,0.022655194,0,0,No
-7,Partner Angry/Controlling,0,0.028478186,0,0,No
-7,Partner Moody,0,-0.088444295,0,0,No
-7,Blaming Herself & Goal Likely,,-0.198080493,0,0,
-7,Goal Likely & Family Gambles,,0.038910118,0,0,
-7,Family Gambles & First Pregnancy,,-0.715469533,0,0,
-8,Feeling Lonely,1,-0.744618142,0,1,Hardly Ever
-8,Blaming Herself,2,0.302607821,0,1,A Little
-8,Life Not Worth Living,1,-0.489845628,0,1,Never
-8,Strong Mum,1,-0.371127989,0,1,Almost Always
-8,Goal Likely,-1,-0.114170367,0,1,Skip
-8,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
-8,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
-8,Bothered by Gambling,0,0.152505137,0,1,Never
-8,Makes Family Proud,1,-0.157628263,0,1,Almost Always
-8,Family Gambles,2,0.364025144,0,1,Yes
-8,Children in Her Care,3,0.694718069,0,1,3
-8,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
-8,First Pregnancy,0,-0.266101772,0,1,No
-8,Trouble Sleeping,2,0.443821792,0,1,Trouble Sleeping
-8,Need Help With Housing,0,0.091744477,0,1,No
-8,Previous Births,4,-0.567378984,0,1,4+
-8,Feeling Worried,-1,-0.085895846,0,1,Skip
-8,Told Partner/Husband,1,-0.013122068,0,1,Yes
-8,Partner Angry/Controlling,0,0.028478186,0,1,No
-8,Partner Moody,1,0.608191016,0,1,Yes
-8,Blaming Herself & Goal Likely,,-0.9827651,0,1,
-8,Goal Likely & Family Gambles,,0.824938868,0,1,
-8,Family Gambles & First Pregnancy,,-0.10810807,0,1,
-9,Feeling Lonely,2,1.021427861,1,1,A Little
-9,Blaming Herself,2,0.302607821,1,1,A Little
-9,Life Not Worth Living,2,1.650712664,1,1,Rarely
-9,Strong Mum,2,0.632175642,1,1,Often
-9,Goal Likely,1,-0.114170367,1,1,A Lot
-9,Managing Day-to-Day,2,0.906720417,1,1,Struggle A Lot
-9,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-9,Bothered by Gambling,-1,-0.043660745,1,1,Skip
-9,Makes Family Proud,4,0.1338698,1,1,A Little
-9,Family Gambles,2,0.364025144,1,1,Yes
-9,Children in Her Care,1,0.694718069,1,1,1
-9,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-9,First Pregnancy,0,-0.266101772,1,1,No
-9,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-9,Need Help With Housing,0,0.091744477,1,1,No
-9,Previous Births,3,-0.567378984,1,1,3
-9,Feeling Worried,-1,-0.085895846,1,1,Skip
-9,Told Partner/Husband,0,0.022655194,1,1,No
-9,Partner Angry/Controlling,0,0.028478186,1,1,No
-9,Partner Moody,0,-0.088444295,1,1,No
-9,Blaming Herself & Goal Likely,,-0.198080493,1,1,
-9,Goal Likely & Family Gambles,,0.319072864,1,1,
-9,Family Gambles & First Pregnancy,,-0.10810807,1,1,
-10,Feeling Lonely,3,1.021427861,1,1,Sometimes
-10,Blaming Herself,3,0.302607821,1,1,Sometimes
-10,Life Not Worth Living,3,1.650712664,1,1,Sometimes
-10,Strong Mum,3,0.632175642,1,1,Sometimes
-10,Goal Likely,1,-0.114170367,1,1,A Lot
-10,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
-10,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-10,Bothered by Gambling,1,0.152505137,1,1,Sometimes
-10,Makes Family Proud,4,0.1338698,1,1,A Little
-10,Family Gambles,1,0.364025144,1,1,Sometimes
-10,Children in Her Care,-1,-0.73968364,1,1,Skip
-10,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-10,First Pregnancy,1,0.429688927,1,1,Yes
-10,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-10,Need Help With Housing,1,-0.524392114,1,1,Yes
-10,Previous Births,-1,0.543013015,1,1,Skip
-10,Feeling Worried,1,1.055803102,1,1,Yes
-10,Told Partner/Husband,0,0.022655194,1,1,No
-10,Partner Angry/Controlling,0,0.028478186,1,1,No
-10,Partner Moody,0,-0.088444295,1,1,No
-10,Blaming Herself & Goal Likely,,0.682490008,1,1,
-10,Goal Likely & Family Gambles,,0.038910118,1,1,
-10,Family Gambles & First Pregnancy,,0.763955999,1,1,
-11,Feeling Lonely,3,1.021427861,1,1,Sometimes
-11,Blaming Herself,2,0.302607821,1,1,A Little
-11,Life Not Worth Living,3,1.650712664,1,1,Sometimes
-11,Strong Mum,3,0.632175642,1,1,Sometimes
-11,Goal Likely,1,-0.114170367,1,1,A Lot
-11,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
-11,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-11,Bothered by Gambling,0,0.152505137,1,1,Never
-11,Makes Family Proud,3,0.1338698,1,1,Sometimes
-11,Family Gambles,0,-0.140861903,1,1,No
-11,Children in Her Care,-1,-0.73968364,1,1,Skip
-11,Smoking Cigarettes in Pregnancy,0,0.018392116,1,1,No
-11,First Pregnancy,1,0.429688927,1,1,Yes
-11,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-11,Need Help With Housing,0,0.091744477,1,1,No
-11,Previous Births,-1,0.543013015,1,1,Skip
-11,Feeling Worried,1,1.055803102,1,1,Yes
-11,Told Partner/Husband,0,0.022655194,1,1,No
-11,Partner Angry/Controlling,0,0.028478186,1,1,No
-11,Partner Moody,0,-0.088444295,1,1,No
-11,Blaming Herself & Goal Likely,,-0.198080493,1,1,
-11,Goal Likely & Family Gambles,,0.111625444,1,1,
-11,Family Gambles & First Pregnancy,,-0.602811949,1,1,
-12,Feeling Lonely,3,1.021427861,1,1,Sometimes
-12,Blaming Herself,2,0.302607821,1,1,A Little
-12,Life Not Worth Living,1,-0.489845628,1,1,Never
-12,Strong Mum,2,0.632175642,1,1,Often
-12,Goal Likely,1,-0.114170367,1,1,A Lot
-12,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
-12,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-12,Bothered by Gambling,0,0.152505137,1,1,Never
-12,Makes Family Proud,2,0.1338698,1,1,Often
-12,Family Gambles,0,-0.140861903,1,1,No
-12,Children in Her Care,1,0.694718069,1,1,1
-12,Smoking Cigarettes in Pregnancy,-1,0.018392116,1,1,Skip
-12,First Pregnancy,0,-0.266101772,1,1,No
-12,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-12,Need Help With Housing,0,0.091744477,1,1,No
-12,Previous Births,1,-0.567378984,1,1,1
-12,Feeling Worried,-1,-0.085895846,1,1,Skip
-12,Told Partner/Husband,1,-0.013122068,1,1,Yes
-12,Partner Angry/Controlling,0,0.028478186,1,1,No
-12,Partner Moody,0,-0.088444295,1,1,No
-12,Blaming Herself & Goal Likely,,-0.198080493,1,1,
-12,Goal Likely & Family Gambles,,0.111625444,1,1,
-12,Family Gambles & First Pregnancy,,0.209576424,1,1,
-13,Feeling Lonely,3,1.021427861,0,1,Sometimes
-13,Blaming Herself,3,0.302607821,0,1,Sometimes
-13,Life Not Worth Living,1,-0.489845628,0,1,Never
-13,Strong Mum,3,0.632175642,0,1,Sometimes
-13,Goal Likely,-1,-0.114170367,0,1,Skip
-13,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
-13,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
-13,Bothered by Gambling,0,0.152505137,0,1,Never
-13,Makes Family Proud,3,0.1338698,0,1,Sometimes
-13,Family Gambles,-1,-0.140861903,0,1,Skip
-13,Children in Her Care,0,0.694718069,0,1,0
-13,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
-13,First Pregnancy,0,-0.266101772,0,1,No
-13,Trouble Sleeping,2,0.443821792,0,1,Trouble Sleeping
-13,Need Help With Housing,0,0.091744477,0,1,No
-13,Previous Births,1,-0.567378984,0,1,1
-13,Feeling Worried,1,1.055803102,0,1,Yes
-13,Told Partner/Husband,1,-0.013122068,0,1,Yes
-13,Partner Angry/Controlling,0,0.028478186,0,1,No
-13,Partner Moody,0,-0.088444295,0,1,No
-13,Blaming Herself & Goal Likely,,-0.161154366,0,1,
-13,Goal Likely & Family Gambles,,-1.411035033,0,1,
-13,Family Gambles & First Pregnancy,,-0.512653651,0,1,
-14,Feeling Lonely,1,-0.744618142,0,1,Hardly Ever
-14,Blaming Herself,2,0.302607821,0,1,A Little
-14,Life Not Worth Living,1,-0.489845628,0,1,Never
-14,Strong Mum,3,0.632175642,0,1,Sometimes
-14,Goal Likely,1,-0.114170367,0,1,A Lot
-14,Managing Day-to-Day,1,0.906720417,0,1,Struggle A Bit
-14,Keeping Safety Plan,1,-0.156960997,0,1,Client Agrees
-14,Bothered by Gambling,0,0.152505137,0,1,Never
-14,Makes Family Proud,2,0.1338698,0,1,Often
-14,Family Gambles,0,-0.140861903,0,1,No
-14,Children in Her Care,2,0.694718069,0,1,2
-14,Smoking Cigarettes in Pregnancy,0,0.018392116,0,1,No
-14,First Pregnancy,0,-0.266101772,0,1,No
-14,Trouble Sleeping,1,-0.167751217,0,1,Sleeping Well
-14,Need Help With Housing,0,0.091744477,0,1,No
-14,Previous Births,2,-0.567378984,0,1,2
-14,Feeling Worried,-1,-0.085895846,0,1,Skip
-14,Told Partner/Husband,1,-0.013122068,0,1,Yes
-14,Partner Angry/Controlling,0,0.028478186,0,1,No
-14,Partner Moody,0,-0.088444295,0,1,No
-14,Blaming Herself & Goal Likely,,-0.198080493,0,1,
-14,Goal Likely & Family Gambles,,0.111625444,0,1,
-14,Family Gambles & First Pregnancy,,0.209576424,0,1,
-15,Feeling Lonely,3,1.021427861,1,1,Sometimes
-15,Blaming Herself,2,0.302607821,1,1,A Little
-15,Life Not Worth Living,3,1.650712664,1,1,Sometimes
-15,Strong Mum,4,0.632175642,1,1,A Little
-15,Goal Likely,1,-0.114170367,1,1,A Lot
-15,Managing Day-to-Day,1,0.906720417,1,1,Struggle A Bit
-15,Keeping Safety Plan,1,-0.156960997,1,1,Client Agrees
-15,Bothered by Gambling,0,0.152505137,1,1,Never
-15,Makes Family Proud,4,0.1338698,1,1,A Little
-15,Family Gambles,0,-0.140861903,1,1,No
-15,Children in Her Care,0,0.694718069,1,1,0
-15,Smoking Cigarettes in Pregnancy,2,-0.070503112,1,1,Yes
-15,First Pregnancy,0,-0.266101772,1,1,No
-15,Trouble Sleeping,2,0.443821792,1,1,Trouble Sleeping
-15,Need Help With Housing,1,-0.524392114,1,1,Yes
-15,Previous Births,2,-0.567378984,1,1,2
-15,Feeling Worried,1,1.055803102,1,1,Yes
-15,Told Partner/Husband,1,-0.013122068,1,1,Yes
-15,Partner Angry/Controlling,0,0.028478186,1,1,No
-15,Partner Moody,0,-0.088444295,1,1,No
-15,Blaming Herself & Goal Likely,,-0.198080493,1,1,
-15,Goal Likely & Family Gambles,,0.111625444,1,1,
-15,Family Gambles & First Pregnancy,,0.209576424,1,1,
-16,Feeling Lonely,1,-0.744618142,0,0,Hardly Ever
-16,Blaming Herself,2,0.302607821,0,0,A Little
-16,Life Not Worth Living,1,-0.489845628,0,0,Never
-16,Strong Mum,1,-0.371127989,0,0,Almost Always
-16,Goal Likely,-1,-0.114170367,0,0,Skip
-16,Managing Day-to-Day,2,0.906720417,0,0,Struggle A Lot
-16,Keeping Safety Plan,0,-0.156960997,0,0,Does Not Agree
-16,Bothered by Gambling,0,0.152505137,0,0,Never
-16,Makes Family Proud,1,-0.157628263,0,0,Almost Always
-16,Family Gambles,0,-0.140861903,0,0,No
-16,Children in Her Care,1,0.694718069,0,0,1
-16,Smoking Cigarettes in Pregnancy,1,-0.070503112,0,0,Sometimes
-16,First Pregnancy,0,-0.266101772,0,0,No
-16,Trouble Sleeping,2,0.443821792,0,0,Trouble Sleeping
-16,Need Help With Housing,0,0.091744477,0,0,No
-16,Previous Births,1,-0.567378984,0,0,1
-16,Feeling Worried,-1,-0.085895846,0,0,Skip
-16,Told Partner/Husband,1,-0.013122068,0,0,Yes
-16,Partner Angry/Controlling,0,0.028478186,0,0,No
-16,Partner Moody,0,-0.088444295,0,0,No
-16,Blaming Herself & Goal Likely,,-0.9827651,0,0,
-16,Goal Likely & Family Gambles,,-0.486125409,0,0,
-16,Family Gambles & First Pregnancy,,0.209576424,0,0,
+instance,feature,score,predicted,predicted_score,value_label,long_label
+0,Feeling Lonely,-0.341,High risk,54.56,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+0,Life Not Worth Living,-0.011,High risk,54.56,Never,"Recently, I feel like life is not worth living"
+0,Blaming Herself,0.545,High risk,54.56,Often,I blame myself when things go wrong
+0,Feeling No Good,-0.017,High risk,54.56,No,Feeling Unwell
+0,Quick to Anger,-0.341,High risk,54.56,Hardly ever,I get angry real quick
+0,Feeling Happy,0.674,High risk,54.56,Sometimes,I feel happy in myself
+0,Has Washing Machine,-0.073,High risk,54.56,Yes,Do you have Washing Machine?
+0,Feeling Alone,-0.034,High risk,54.56,No,Are you Feeling Alone
+0,Trouble Sleeping,0.279,High risk,54.56,Trouble Sleeping,Do you have Trouble Sleeping
+0,Managing Day-to-Day,-0.165,High risk,54.56,Manage Well,How are you Managing Day-to-Day
+0,Crying A Lot,-0.034,High risk,54.56,No,Do you Cry A Lot
+0,Family Support,-0.232,High risk,54.56,Solid strong support,Do you have Family Support
+0,Happy In Myself,-0.08,High risk,54.56,Yes,Are you Happy In yourself
+0,Fresh Food Available,-0.149,High risk,54.56,Yes,Do you have Fresh Food Available
+0,Day-to-Day Stress,0.007,High risk,54.56,No Stress,How is you Day-to-Day Stress
+0,Often Feels Scared,-0.031,High risk,54.56,No,Fearful or scared for no good reason
+0,Abuse and Violence,-0.048,High risk,54.56,No,Do you suffer from Abuse and Violence
+0,Relationship With Mother,0.039,High risk,54.56,Some problems with mother,How is your Relationship With your Mother
+0,Makes Family Proud,0.064,High risk,54.56,Often,I make my family proud 
+0,Bothered by Gambling,0.322,High risk,54.56,Sometimes,Are there ever times when Gambling bothers you?
+0,Day-to-Day Worries,0.24,High risk,54.56,Some worries,How is you Day-to-Day Worries
+0,Panic/Physical Symptoms,-0.033,High risk,54.56,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+0,Money Worries,-0.172,High risk,54.56,No,How is you Money Worries
+0,Family Perception,-0.067,High risk,54.56,I know I make my family proud,How my family sees me
+0,Strong Mum,0.88,High risk,54.56,Sometimes,I feel strong about being a mum
+0,Goal Likely,0.083,High risk,54.56,A Lot,How likely is it that you will do your goals?
+0,Keeping Safety Plan,-0.067,High risk,54.56,Does Not Agree,Do you agree to make a plan to keep safe to deal with the safety worries
+0,Family Gambles,0.169,High risk,54.56,Sometimes,What about people close to you? Do they gamble?
+0,Smoking Cigarettes in Pregnancy,0.054,High risk,54.56,No,Have you smoked cigarettes in Pregnancy?
+0,First Pregnancy,0.175,High risk,54.56,Yes,Is this your first pregnancy?
+0,Need Help With Housing,-0.411,High risk,54.56,Yes,Do you Need help to Secure housing
+0,Told Partner/Husband,0.031,High risk,54.56,No,Have you Told Partner/Husband
+0,Cannabis Use,-0.023,High risk,54.56,No,Cannabis Use
+1,Feeling Lonely,0.982,High risk,98.23,Often,"I feel lonely, like I don't belong or fit in"
+1,Life Not Worth Living,0.98,High risk,98.23,Often,"Recently, I feel like life is not worth living"
+1,Blaming Herself,0.545,High risk,98.23,Often,I blame myself when things go wrong
+1,Feeling No Good,-0.017,High risk,98.23,No,Feeling Unwell
+1,Quick to Anger,0.806,High risk,98.23,Sometimes,I get angry real quick
+1,Feeling Happy,0.674,High risk,98.23,Sometimes,I feel happy in myself
+1,Has Washing Machine,0.006,High risk,98.23,No,Do you have Washing Machine?
+1,Feeling Alone,-0.034,High risk,98.23,No,Are you Feeling Alone
+1,Trouble Sleeping,0.279,High risk,98.23,Trouble Sleeping,Do you have Trouble Sleeping
+1,Managing Day-to-Day,-0.165,High risk,98.23,Manage Well,How are you Managing Day-to-Day
+1,Crying A Lot,0.185,High risk,98.23,Yes,Do you Cry A Lot
+1,Family Support,-0.004,High risk,98.23,Sometimes support,Do you have Family Support
+1,Happy In Myself,0.088,High risk,98.23,No,Are you Happy In yourself
+1,Fresh Food Available,-0.149,High risk,98.23,Yes,Do you have Fresh Food Available
+1,Day-to-Day Stress,0.008,High risk,98.23,Some stress,How is you Day-to-Day Stress
+1,Often Feels Scared,-0.031,High risk,98.23,No,Fearful or scared for no good reason
+1,Abuse and Violence,0.213,High risk,98.23,Yes,Do you suffer from Abuse and Violence
+1,Relationship With Mother,-0.012,High risk,98.23,No problems with mother,How is your Relationship With your Mother
+1,Makes Family Proud,-0.183,High risk,98.23,Almost Always,I make my family proud 
+1,Day-to-Day Worries,0.24,High risk,98.23,Some worries,How is you Day-to-Day Worries
+1,Panic/Physical Symptoms,0.263,High risk,98.23,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+1,Money Worries,-0.172,High risk,98.23,No,How is you Money Worries
+1,Family Perception,0.054,High risk,98.23,Sometimes I make my family proud,How my family sees me
+1,Strong Mum,0.364,High risk,98.23,Often,I feel strong about being a mum
+1,Goal Likely,0.174,High risk,98.23,Not at all,How likely is it that you will do your goals?
+1,Keeping Safety Plan,-0.223,High risk,98.23,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+1,Family Gambles,-0.114,High risk,98.23,No,What about people close to you? Do they gamble?
+1,Children in Her Care,0.043,High risk,98.23,1,How many of these children are in your care?
+1,Smoking Cigarettes in Pregnancy,0.054,High risk,98.23,No,Have you smoked cigarettes in Pregnancy?
+1,First Pregnancy,-0.048,High risk,98.23,No,Is this your first pregnancy?
+1,Need Help With Housing,0.07,High risk,98.23,No,Do you Need help to Secure housing
+1,Previous Births,-0.022,High risk,98.23,2,How many previous births have you had?
+1,Told Partner/Husband,-0.018,High risk,98.23,Yes,Have you Told Partner/Husband
+1,Cannabis Use,0.225,High risk,98.23,Yes,Cannabis Use
+2,Feeling Lonely,0.982,High risk,99.9,Often,"I feel lonely, like I don't belong or fit in"
+2,Life Not Worth Living,0.98,High risk,99.9,Almost Always,"Recently, I feel like life is not worth living"
+2,Blaming Herself,0.545,High risk,99.9,Sometimes,I blame myself when things go wrong
+2,Feeling No Good,0.176,High risk,99.9,Yes,Feeling Unwell
+2,Quick to Anger,0.806,High risk,99.9,Often,I get angry real quick
+2,Feeling Happy,0.099,High risk,99.9,Often,I feel happy in myself
+2,Has Washing Machine,0.006,High risk,99.9,No,Do you have Washing Machine?
+2,Feeling Alone,0.257,High risk,99.9,Yes,Are you Feeling Alone
+2,Trouble Sleeping,0.279,High risk,99.9,Trouble Sleeping,Do you have Trouble Sleeping
+2,Managing Day-to-Day,0.516,High risk,99.9,Struggle A Lot,How are you Managing Day-to-Day
+2,Crying A Lot,0.185,High risk,99.9,Yes,Do you Cry A Lot
+2,Family Support,-0.004,High risk,99.9,Sometimes support,Do you have Family Support
+2,Happy In Myself,0.088,High risk,99.9,No,Are you Happy In yourself
+2,Fresh Food Available,-0.149,High risk,99.9,Yes,Do you have Fresh Food Available
+2,Day-to-Day Stress,0.008,High risk,99.9,Too much stress,How is you Day-to-Day Stress
+2,Often Feels Scared,0.459,High risk,99.9,Yes,Fearful or scared for no good reason
+2,Abuse and Violence,-0.048,High risk,99.9,No,Do you suffer from Abuse and Violence
+2,Relationship With Mother,0.039,High risk,99.9,Some problems with mother,How is your Relationship With your Mother
+2,Makes Family Proud,0.383,High risk,99.9,Hardly Ever,I make my family proud 
+2,Bothered by Gambling,0.322,High risk,99.9,Sometimes,Are there ever times when Gambling bothers you?
+2,Day-to-Day Worries,0.24,High risk,99.9,Too many worries,How is you Day-to-Day Worries
+2,Panic/Physical Symptoms,-0.033,High risk,99.9,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+2,Money Worries,0.506,High risk,99.9,Yes,How is you Money Worries
+2,Family Perception,0.054,High risk,99.9,I rarely make my family proud,How my family sees me
+2,Strong Mum,0.88,High risk,99.9,A Little,I feel strong about being a mum
+2,Goal Likely,0.174,High risk,99.9,A fair amount,How likely is it that you will do your goals?
+2,Keeping Safety Plan,-0.223,High risk,99.9,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+2,Family Gambles,0.512,High risk,99.9,Yes,What about people close to you? Do they gamble?
+2,Children in Her Care,0.043,High risk,99.9,0,How many of these children are in your care?
+2,Smoking Cigarettes in Pregnancy,0.024,High risk,99.9,Sometimes,Have you smoked cigarettes in Pregnancy?
+2,First Pregnancy,-0.048,High risk,99.9,No,Is this your first pregnancy?
+2,Need Help With Housing,-0.411,High risk,99.9,Yes,Do you Need help to Secure housing
+2,Previous Births,-0.022,High risk,99.9,2,How many previous births have you had?
+2,Told Partner/Husband,0.031,High risk,99.9,No,Have you Told Partner/Husband
+2,Cannabis Use,0.225,High risk,99.9,Yes,Cannabis Use
+3,Feeling Lonely,0.982,High risk,99.94,Often,"I feel lonely, like I don't belong or fit in"
+3,Life Not Worth Living,0.98,High risk,99.94,Almost Always,"Recently, I feel like life is not worth living"
+3,Blaming Herself,0.545,High risk,99.94,Often,I blame myself when things go wrong
+3,Feeling No Good,0.176,High risk,99.94,Yes,Feeling Unwell
+3,Quick to Anger,0.806,High risk,99.94,Almost always,I get angry real quick
+3,Feeling Happy,0.674,High risk,99.94,Hardly ever,I feel happy in myself
+3,Has Washing Machine,-0.073,High risk,99.94,Yes,Do you have Washing Machine?
+3,Feeling Alone,0.257,High risk,99.94,Yes,Are you Feeling Alone
+3,Trouble Sleeping,-0.07,High risk,99.94,Sleeping Well,Do you have Trouble Sleeping
+3,Managing Day-to-Day,0.516,High risk,99.94,Struggle A Lot,How are you Managing Day-to-Day
+3,Crying A Lot,0.185,High risk,99.94,Yes,Do you Cry A Lot
+3,Family Support,-0.004,High risk,99.94,Don't want to say,Do you have Family Support
+3,Happy In Myself,0.088,High risk,99.94,No,Are you Happy In yourself
+3,Fresh Food Available,-0.149,High risk,99.94,Yes,Do you have Fresh Food Available
+3,Day-to-Day Stress,0.008,High risk,99.94,Too much stress,How is you Day-to-Day Stress
+3,Often Feels Scared,0.459,High risk,99.94,Yes,Fearful or scared for no good reason
+3,Abuse and Violence,0.213,High risk,99.94,Yes,Do you suffer from Abuse and Violence
+3,Relationship With Mother,0.039,High risk,99.94,Don't want to say,How is your Relationship With your Mother
+3,Makes Family Proud,0.383,High risk,99.94,Hardly Ever,I make my family proud 
+3,Bothered by Gambling,0.16,High risk,99.94,Never,Are there ever times when Gambling bothers you?
+3,Day-to-Day Worries,0.24,High risk,99.94,Too many worries,How is you Day-to-Day Worries
+3,Panic/Physical Symptoms,0.263,High risk,99.94,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+3,Money Worries,0.506,High risk,99.94,Yes,How is you Money Worries
+3,Family Perception,0.054,High risk,99.94,I rarely make my family proud,How my family sees me
+3,Strong Mum,0.88,High risk,99.94,Hardly Ever,I feel strong about being a mum
+3,Goal Likely,0.083,High risk,99.94,A Lot,How likely is it that you will do your goals?
+3,Keeping Safety Plan,-0.223,High risk,99.94,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+3,Family Gambles,0.512,High risk,99.94,Yes,What about people close to you? Do they gamble?
+3,Children in Her Care,0.043,High risk,99.94,0,How many of these children are in your care?
+3,Smoking Cigarettes in Pregnancy,-0.276,High risk,99.94,Yes,Have you smoked cigarettes in Pregnancy?
+3,First Pregnancy,-0.048,High risk,99.94,No,Is this your first pregnancy?
+3,Need Help With Housing,-0.411,High risk,99.94,Yes,Do you Need help to Secure housing
+3,Previous Births,-0.022,High risk,99.94,4+,How many previous births have you had?
+3,Feeling Worried,0.434,High risk,99.94,Yes,Do you feel Worried
+3,Told Partner/Husband,0.031,High risk,99.94,No,Have you Told Partner/Husband
+3,Cannabis Use,0.225,High risk,99.94,Yes,Cannabis Use
+4,Feeling Lonely,-0.341,Low risk,86.03,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+4,Life Not Worth Living,-0.011,Low risk,86.03,Never,"Recently, I feel like life is not worth living"
+4,Blaming Herself,-0.232,Low risk,86.03,Hardly Ever,I blame myself when things go wrong
+4,Feeling No Good,-0.017,Low risk,86.03,No,Feeling Unwell
+4,Quick to Anger,-0.224,Low risk,86.03,A little,I get angry real quick
+4,Feeling Happy,0.674,Low risk,86.03,A little,I feel happy in myself
+4,Has Washing Machine,0.006,Low risk,86.03,No,Do you have Washing Machine?
+4,Feeling Alone,-0.034,Low risk,86.03,No,Are you Feeling Alone
+4,Trouble Sleeping,-0.07,Low risk,86.03,Sleeping Well,Do you have Trouble Sleeping
+4,Managing Day-to-Day,-0.165,Low risk,86.03,Manage Well,How are you Managing Day-to-Day
+4,Crying A Lot,-0.034,Low risk,86.03,No,Do you Cry A Lot
+4,Family Support,-0.232,Low risk,86.03,Solid strong support,Do you have Family Support
+4,Happy In Myself,0.088,Low risk,86.03,No,Are you Happy In yourself
+4,Fresh Food Available,0.021,Low risk,86.03,No,Do you have Fresh Food Available
+4,Day-to-Day Stress,0.007,Low risk,86.03,No Stress,How is you Day-to-Day Stress
+4,Often Feels Scared,-0.031,Low risk,86.03,No,Fearful or scared for no good reason
+4,Abuse and Violence,-0.048,Low risk,86.03,No,Do you suffer from Abuse and Violence
+4,Relationship With Mother,-0.012,Low risk,86.03,No problems with mother,How is your Relationship With your Mother
+4,Makes Family Proud,-0.183,Low risk,86.03,Almost Always,I make my family proud 
+4,Bothered by Gambling,0.16,Low risk,86.03,Never,Are there ever times when Gambling bothers you?
+4,Day-to-Day Worries,0.24,Low risk,86.03,Some worries,How is you Day-to-Day Worries
+4,Panic/Physical Symptoms,-0.033,Low risk,86.03,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+4,Money Worries,-0.172,Low risk,86.03,No,How is you Money Worries
+4,Family Perception,-0.067,Low risk,86.03,I know I make my family proud,How my family sees me
+4,Strong Mum,0.364,Low risk,86.03,Often,I feel strong about being a mum
+4,Goal Likely,0.083,Low risk,86.03,A Lot,How likely is it that you will do your goals?
+4,Keeping Safety Plan,-0.223,Low risk,86.03,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+4,Family Gambles,-0.114,Low risk,86.03,No,What about people close to you? Do they gamble?
+4,First Pregnancy,0.175,Low risk,86.03,Yes,Is this your first pregnancy?
+4,Need Help With Housing,0.07,Low risk,86.03,No,Do you Need help to Secure housing
+4,Told Partner/Husband,-0.018,Low risk,86.03,Yes,Have you Told Partner/Husband
+4,Cannabis Use,-0.023,Low risk,86.03,No,Cannabis Use
+5,Feeling Lonely,0.982,High risk,98.14,Almost Always,"I feel lonely, like I don't belong or fit in"
+5,Life Not Worth Living,0.98,High risk,98.14,Sometimes,"Recently, I feel like life is not worth living"
+5,Blaming Herself,0.545,High risk,98.14,Almost Always,I blame myself when things go wrong
+5,Feeling No Good,0.176,High risk,98.14,Yes,Feeling Unwell
+5,Quick to Anger,-0.224,High risk,98.14,A little,I get angry real quick
+5,Feeling Happy,0.099,High risk,98.14,Often,I feel happy in myself
+5,Has Washing Machine,0.006,High risk,98.14,No,Do you have Washing Machine?
+5,Feeling Alone,0.257,High risk,98.14,Yes,Are you Feeling Alone
+5,Trouble Sleeping,0.279,High risk,98.14,Trouble Sleeping,Do you have Trouble Sleeping
+5,Managing Day-to-Day,0.516,High risk,98.14,Struggle A Lot,How are you Managing Day-to-Day
+5,Crying A Lot,0.185,High risk,98.14,Yes,Do you Cry A Lot
+5,Family Support,-0.004,High risk,98.14,Don't want to say,Do you have Family Support
+5,Happy In Myself,0.088,High risk,98.14,No,Are you Happy In yourself
+5,Fresh Food Available,0.021,High risk,98.14,No,Do you have Fresh Food Available
+5,Day-to-Day Stress,0.008,High risk,98.14,Too much stress,How is you Day-to-Day Stress
+5,Often Feels Scared,0.459,High risk,98.14,Yes,Fearful or scared for no good reason
+5,Abuse and Violence,-0.048,High risk,98.14,No,Do you suffer from Abuse and Violence
+5,Relationship With Mother,0.039,High risk,98.14,Don't want to say,How is your Relationship With your Mother
+5,Makes Family Proud,0.383,High risk,98.14,Hardly Ever,I make my family proud 
+5,Bothered by Gambling,0.16,High risk,98.14,Never,Are there ever times when Gambling bothers you?
+5,Day-to-Day Worries,0.24,High risk,98.14,Too many worries,How is you Day-to-Day Worries
+5,Panic/Physical Symptoms,0.263,High risk,98.14,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+5,Money Worries,0.506,High risk,98.14,Yes,How is you Money Worries
+5,Family Perception,0.054,High risk,98.14,I rarely make my family proud,How my family sees me
+5,Strong Mum,-0.213,High risk,98.14,Almost Always,I feel strong about being a mum
+5,Goal Likely,0.174,High risk,98.14,A fair amount,How likely is it that you will do your goals?
+5,Keeping Safety Plan,-0.223,High risk,98.14,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+5,Family Gambles,-0.114,High risk,98.14,No,What about people close to you? Do they gamble?
+5,Children in Her Care,0.043,High risk,98.14,1,How many of these children are in your care?
+5,Smoking Cigarettes in Pregnancy,0.024,High risk,98.14,Sometimes,Have you smoked cigarettes in Pregnancy?
+5,First Pregnancy,-0.048,High risk,98.14,No,Is this your first pregnancy?
+5,Need Help With Housing,0.07,High risk,98.14,No,Do you Need help to Secure housing
+5,Previous Births,0.004,High risk,98.14,1,How many previous births have you had?
+5,Told Partner/Husband,-0.018,High risk,98.14,Yes,Have you Told Partner/Husband
+5,Cannabis Use,-0.023,High risk,98.14,No,Cannabis Use
+6,Feeling Lonely,0.337,High risk,98.41,A Little,"I feel lonely, like I don't belong or fit in"
+6,Life Not Worth Living,0.98,High risk,98.41,Rarely,"Recently, I feel like life is not worth living"
+6,Blaming Herself,0.545,High risk,98.41,Sometimes,I blame myself when things go wrong
+6,Feeling No Good,-0.017,High risk,98.41,No,Feeling Unwell
+6,Quick to Anger,0.806,High risk,98.41,Often,I get angry real quick
+6,Feeling Happy,0.674,High risk,98.41,Sometimes,I feel happy in myself
+6,Has Washing Machine,-0.073,High risk,98.41,Yes,Do you have Washing Machine?
+6,Feeling Alone,-0.034,High risk,98.41,No,Are you Feeling Alone
+6,Trouble Sleeping,-0.07,High risk,98.41,Sleeping Well,Do you have Trouble Sleeping
+6,Managing Day-to-Day,0.516,High risk,98.41,Struggle A Bit,How are you Managing Day-to-Day
+6,Crying A Lot,-0.034,High risk,98.41,No,Do you Cry A Lot
+6,Family Support,-0.004,High risk,98.41,Sometimes support,Do you have Family Support
+6,Happy In Myself,0.088,High risk,98.41,No,Are you Happy In yourself
+6,Fresh Food Available,0.021,High risk,98.41,No,Do you have Fresh Food Available
+6,Day-to-Day Stress,0.008,High risk,98.41,Some stress,How is you Day-to-Day Stress
+6,Often Feels Scared,-0.031,High risk,98.41,No,Fearful or scared for no good reason
+6,Abuse and Violence,0.213,High risk,98.41,Yes,Do you suffer from Abuse and Violence
+6,Relationship With Mother,0.039,High risk,98.41,Some problems with mother,How is your Relationship With your Mother
+6,Makes Family Proud,0.383,High risk,98.41,A Little,I make my family proud 
+6,Day-to-Day Worries,0.24,High risk,98.41,Some worries,How is you Day-to-Day Worries
+6,Panic/Physical Symptoms,-0.033,High risk,98.41,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+6,Money Worries,-0.172,High risk,98.41,No,How is you Money Worries
+6,Family Perception,0.054,High risk,98.41,Sometimes I make my family proud,How my family sees me
+6,Strong Mum,0.88,High risk,98.41,A Little,I feel strong about being a mum
+6,Goal Likely,0.174,High risk,98.41,A fair amount,How likely is it that you will do your goals?
+6,Keeping Safety Plan,-0.067,High risk,98.41,Does Not Agree,Do you agree to make a plan to keep safe to deal with the safety worries
+6,Family Gambles,0.169,High risk,98.41,Sometimes,What about people close to you? Do they gamble?
+6,Children in Her Care,0.043,High risk,98.41,0,How many of these children are in your care?
+6,Smoking Cigarettes in Pregnancy,0.054,High risk,98.41,No,Have you smoked cigarettes in Pregnancy?
+6,First Pregnancy,-0.048,High risk,98.41,No,Is this your first pregnancy?
+6,Need Help With Housing,-0.411,High risk,98.41,Yes,Do you Need help to Secure housing
+6,Previous Births,-0.022,High risk,98.41,2,How many previous births have you had?
+6,Told Partner/Husband,-0.018,High risk,98.41,Yes,Have you Told Partner/Husband
+6,Cannabis Use,-0.023,High risk,98.41,No,Cannabis Use
+7,Feeling Lonely,-0.341,Low risk,72.15,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+7,Life Not Worth Living,-0.011,Low risk,72.15,Never,"Recently, I feel like life is not worth living"
+7,Blaming Herself,-0.017,Low risk,72.15,A Little,I blame myself when things go wrong
+7,Feeling No Good,-0.017,Low risk,72.15,No,Feeling Unwell
+7,Quick to Anger,-0.224,Low risk,72.15,A little,I get angry real quick
+7,Feeling Happy,0.674,Low risk,72.15,A little,I feel happy in myself
+7,Has Washing Machine,0.006,Low risk,72.15,No,Do you have Washing Machine?
+7,Feeling Alone,-0.034,Low risk,72.15,No,Are you Feeling Alone
+7,Trouble Sleeping,0.279,Low risk,72.15,Trouble Sleeping,Do you have Trouble Sleeping
+7,Managing Day-to-Day,0.516,Low risk,72.15,Struggle A Bit,How are you Managing Day-to-Day
+7,Crying A Lot,-0.034,Low risk,72.15,No,Do you Cry A Lot
+7,Family Support,-0.232,Low risk,72.15,Solid strong support,Do you have Family Support
+7,Happy In Myself,-0.08,Low risk,72.15,Yes,Are you Happy In yourself
+7,Fresh Food Available,0.021,Low risk,72.15,No,Do you have Fresh Food Available
+7,Day-to-Day Stress,0.008,Low risk,72.15,Some stress,How is you Day-to-Day Stress
+7,Often Feels Scared,-0.031,Low risk,72.15,No,Fearful or scared for no good reason
+7,Abuse and Violence,-0.048,Low risk,72.15,No,Do you suffer from Abuse and Violence
+7,Relationship With Mother,0.039,Low risk,72.15,Don't want to say,How is your Relationship With your Mother
+7,Makes Family Proud,0.064,Low risk,72.15,Often,I make my family proud 
+7,Bothered by Gambling,0.16,Low risk,72.15,Never,Are there ever times when Gambling bothers you?
+7,Day-to-Day Worries,0.24,Low risk,72.15,Some worries,How is you Day-to-Day Worries
+7,Panic/Physical Symptoms,-0.033,Low risk,72.15,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+7,Money Worries,-0.172,Low risk,72.15,No,How is you Money Worries
+7,Family Perception,-0.067,Low risk,72.15,I know I make my family proud,How my family sees me
+7,Strong Mum,-0.213,Low risk,72.15,Almost Always,I feel strong about being a mum
+7,Goal Likely,0.083,Low risk,72.15,A Lot,How likely is it that you will do your goals?
+7,Keeping Safety Plan,-0.223,Low risk,72.15,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+7,Family Gambles,0.169,Low risk,72.15,Sometimes,What about people close to you? Do they gamble?
+7,Children in Her Care,0.043,Low risk,72.15,1,How many of these children are in your care?
+7,Smoking Cigarettes in Pregnancy,0.024,Low risk,72.15,Sometimes,Have you smoked cigarettes in Pregnancy?
+7,First Pregnancy,-0.048,Low risk,72.15,No,Is this your first pregnancy?
+7,Need Help With Housing,0.07,Low risk,72.15,No,Do you Need help to Secure housing
+7,Previous Births,0.004,Low risk,72.15,1,How many previous births have you had?
+7,Told Partner/Husband,0.031,Low risk,72.15,No,Have you Told Partner/Husband
+8,Feeling Lonely,-0.341,Low risk,79.42,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+8,Life Not Worth Living,-0.011,Low risk,79.42,Never,"Recently, I feel like life is not worth living"
+8,Blaming Herself,-0.017,Low risk,79.42,A Little,I blame myself when things go wrong
+8,Feeling No Good,-0.017,Low risk,79.42,No,Feeling Unwell
+8,Quick to Anger,-0.224,Low risk,79.42,A little,I get angry real quick
+8,Feeling Happy,0.099,Low risk,79.42,Often,I feel happy in myself
+8,Has Washing Machine,0.006,Low risk,79.42,No,Do you have Washing Machine?
+8,Feeling Alone,-0.034,Low risk,79.42,No,Are you Feeling Alone
+8,Trouble Sleeping,0.279,Low risk,79.42,Trouble Sleeping,Do you have Trouble Sleeping
+8,Managing Day-to-Day,0.516,Low risk,79.42,Struggle A Bit,How are you Managing Day-to-Day
+8,Crying A Lot,-0.034,Low risk,79.42,No,Do you Cry A Lot
+8,Family Support,-0.232,Low risk,79.42,Solid strong support,Do you have Family Support
+8,Happy In Myself,0.088,Low risk,79.42,No,Are you Happy In yourself
+8,Fresh Food Available,0.021,Low risk,79.42,No,Do you have Fresh Food Available
+8,Day-to-Day Stress,0.007,Low risk,79.42,No Stress,How is you Day-to-Day Stress
+8,Often Feels Scared,-0.031,Low risk,79.42,No,Fearful or scared for no good reason
+8,Abuse and Violence,-0.048,Low risk,79.42,No,Do you suffer from Abuse and Violence
+8,Relationship With Mother,0.039,Low risk,79.42,Some problems with mother,How is your Relationship With your Mother
+8,Makes Family Proud,-0.183,Low risk,79.42,Almost Always,I make my family proud 
+8,Bothered by Gambling,0.16,Low risk,79.42,Never,Are there ever times when Gambling bothers you?
+8,Day-to-Day Worries,0.24,Low risk,79.42,Some worries,How is you Day-to-Day Worries
+8,Panic/Physical Symptoms,-0.033,Low risk,79.42,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+8,Money Worries,0.506,Low risk,79.42,Yes,How is you Money Worries
+8,Family Perception,0.054,Low risk,79.42,I rarely make my family proud,How my family sees me
+8,Strong Mum,-0.213,Low risk,79.42,Almost Always,I feel strong about being a mum
+8,Keeping Safety Plan,-0.223,Low risk,79.42,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+8,Family Gambles,0.512,Low risk,79.42,Yes,What about people close to you? Do they gamble?
+8,Children in Her Care,-0.125,Low risk,79.42,3,How many of these children are in your care?
+8,Smoking Cigarettes in Pregnancy,0.054,Low risk,79.42,No,Have you smoked cigarettes in Pregnancy?
+8,First Pregnancy,-0.048,Low risk,79.42,No,Is this your first pregnancy?
+8,Need Help With Housing,0.07,Low risk,79.42,No,Do you Need help to Secure housing
+8,Previous Births,-0.022,Low risk,79.42,4+,How many previous births have you had?
+8,Told Partner/Husband,-0.018,Low risk,79.42,Yes,Have you Told Partner/Husband
+8,Cannabis Use,-0.023,Low risk,79.42,No,Cannabis Use
+9,Feeling Lonely,0.337,High risk,94.09,A Little,"I feel lonely, like I don't belong or fit in"
+9,Life Not Worth Living,0.98,High risk,94.09,Rarely,"Recently, I feel like life is not worth living"
+9,Blaming Herself,-0.017,High risk,94.09,A Little,I blame myself when things go wrong
+9,Feeling No Good,0.176,High risk,94.09,Yes,Feeling Unwell
+9,Quick to Anger,-0.341,High risk,94.09,Hardly ever,I get angry real quick
+9,Feeling Happy,0.674,High risk,94.09,Hardly ever,I feel happy in myself
+9,Has Washing Machine,0.006,High risk,94.09,No,Do you have Washing Machine?
+9,Feeling Alone,0.257,High risk,94.09,Yes,Are you Feeling Alone
+9,Trouble Sleeping,0.279,High risk,94.09,Trouble Sleeping,Do you have Trouble Sleeping
+9,Managing Day-to-Day,0.516,High risk,94.09,Struggle A Lot,How are you Managing Day-to-Day
+9,Crying A Lot,0.185,High risk,94.09,Yes,Do you Cry A Lot
+9,Family Support,-0.004,High risk,94.09,Sometimes support,Do you have Family Support
+9,Happy In Myself,0.088,High risk,94.09,No,Are you Happy In yourself
+9,Fresh Food Available,-0.149,High risk,94.09,Yes,Do you have Fresh Food Available
+9,Day-to-Day Stress,0.008,High risk,94.09,Too much stress,How is you Day-to-Day Stress
+9,Often Feels Scared,-0.031,High risk,94.09,No,Fearful or scared for no good reason
+9,Abuse and Violence,-0.048,High risk,94.09,No,Do you suffer from Abuse and Violence
+9,Relationship With Mother,0.039,High risk,94.09,Don't want to say,How is your Relationship With your Mother
+9,Makes Family Proud,0.383,High risk,94.09,A Little,I make my family proud 
+9,Day-to-Day Worries,0.24,High risk,94.09,Too many worries,How is you Day-to-Day Worries
+9,Panic/Physical Symptoms,0.263,High risk,94.09,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+9,Money Worries,-0.172,High risk,94.09,No,How is you Money Worries
+9,Family Perception,0.054,High risk,94.09,Sometimes I make my family proud,How my family sees me
+9,Strong Mum,0.364,High risk,94.09,Often,I feel strong about being a mum
+9,Goal Likely,0.083,High risk,94.09,A Lot,How likely is it that you will do your goals?
+9,Keeping Safety Plan,-0.223,High risk,94.09,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+9,Family Gambles,0.512,High risk,94.09,Yes,What about people close to you? Do they gamble?
+9,Children in Her Care,0.043,High risk,94.09,1,How many of these children are in your care?
+9,Smoking Cigarettes in Pregnancy,0.054,High risk,94.09,No,Have you smoked cigarettes in Pregnancy?
+9,First Pregnancy,-0.048,High risk,94.09,No,Is this your first pregnancy?
+9,Need Help With Housing,0.07,High risk,94.09,No,Do you Need help to Secure housing
+9,Previous Births,-0.022,High risk,94.09,3,How many previous births have you had?
+9,Told Partner/Husband,0.031,High risk,94.09,No,Have you Told Partner/Husband
+9,Cannabis Use,-0.023,High risk,94.09,No,Cannabis Use
+10,Feeling Lonely,0.982,High risk,99.63,Sometimes,"I feel lonely, like I don't belong or fit in"
+10,Life Not Worth Living,0.98,High risk,99.63,Sometimes,"Recently, I feel like life is not worth living"
+10,Blaming Herself,0.545,High risk,99.63,Sometimes,I blame myself when things go wrong
+10,Feeling No Good,-0.017,High risk,99.63,No,Feeling Unwell
+10,Quick to Anger,-0.224,High risk,99.63,A little,I get angry real quick
+10,Feeling Happy,0.674,High risk,99.63,Sometimes,I feel happy in myself
+10,Has Washing Machine,0.006,High risk,99.63,No,Do you have Washing Machine?
+10,Feeling Alone,0.257,High risk,99.63,Yes,Are you Feeling Alone
+10,Trouble Sleeping,0.279,High risk,99.63,Trouble Sleeping,Do you have Trouble Sleeping
+10,Managing Day-to-Day,0.516,High risk,99.63,Struggle A Bit,How are you Managing Day-to-Day
+10,Crying A Lot,-0.034,High risk,99.63,No,Do you Cry A Lot
+10,Family Support,-0.004,High risk,99.63,Sometimes support,Do you have Family Support
+10,Happy In Myself,0.088,High risk,99.63,No,Are you Happy In yourself
+10,Fresh Food Available,0.021,High risk,99.63,No,Do you have Fresh Food Available
+10,Day-to-Day Stress,0.008,High risk,99.63,Too much stress,How is you Day-to-Day Stress
+10,Often Feels Scared,-0.031,High risk,99.63,No,Fearful or scared for no good reason
+10,Abuse and Violence,0.213,High risk,99.63,Yes,Do you suffer from Abuse and Violence
+10,Relationship With Mother,0.039,High risk,99.63,Don't want to say,How is your Relationship With your Mother
+10,Makes Family Proud,0.383,High risk,99.63,A Little,I make my family proud 
+10,Bothered by Gambling,0.322,High risk,99.63,Sometimes,Are there ever times when Gambling bothers you?
+10,Day-to-Day Worries,0.24,High risk,99.63,Some worries,How is you Day-to-Day Worries
+10,Panic/Physical Symptoms,-0.033,High risk,99.63,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+10,Money Worries,0.506,High risk,99.63,Yes,How is you Money Worries
+10,Family Perception,0.054,High risk,99.63,Sometimes I make my family proud,How my family sees me
+10,Strong Mum,0.88,High risk,99.63,Sometimes,I feel strong about being a mum
+10,Goal Likely,0.083,High risk,99.63,A Lot,How likely is it that you will do your goals?
+10,Keeping Safety Plan,-0.223,High risk,99.63,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+10,Family Gambles,0.169,High risk,99.63,Sometimes,What about people close to you? Do they gamble?
+10,Smoking Cigarettes in Pregnancy,0.054,High risk,99.63,No,Have you smoked cigarettes in Pregnancy?
+10,First Pregnancy,0.175,High risk,99.63,Yes,Is this your first pregnancy?
+10,Need Help With Housing,-0.411,High risk,99.63,Yes,Do you Need help to Secure housing
+10,Feeling Worried,0.434,High risk,99.63,Yes,Do you feel Worried
+10,Told Partner/Husband,0.031,High risk,99.63,No,Have you Told Partner/Husband
+10,Cannabis Use,0.225,High risk,99.63,Yes,Cannabis Use
+11,Feeling Lonely,0.982,High risk,98.58,Sometimes,"I feel lonely, like I don't belong or fit in"
+11,Life Not Worth Living,0.98,High risk,98.58,Sometimes,"Recently, I feel like life is not worth living"
+11,Blaming Herself,-0.017,High risk,98.58,A Little,I blame myself when things go wrong
+11,Feeling No Good,0.176,High risk,98.58,Yes,Feeling Unwell
+11,Quick to Anger,-0.341,High risk,98.58,Hardly ever,I get angry real quick
+11,Feeling Happy,0.674,High risk,98.58,Sometimes,I feel happy in myself
+11,Has Washing Machine,0.006,High risk,98.58,No,Do you have Washing Machine?
+11,Feeling Alone,-0.034,High risk,98.58,No,Are you Feeling Alone
+11,Trouble Sleeping,0.279,High risk,98.58,Trouble Sleeping,Do you have Trouble Sleeping
+11,Managing Day-to-Day,0.516,High risk,98.58,Struggle A Bit,How are you Managing Day-to-Day
+11,Crying A Lot,-0.034,High risk,98.58,No,Do you Cry A Lot
+11,Family Support,-0.232,High risk,98.58,Solid strong support,Do you have Family Support
+11,Happy In Myself,0.088,High risk,98.58,No,Are you Happy In yourself
+11,Fresh Food Available,0.021,High risk,98.58,No,Do you have Fresh Food Available
+11,Day-to-Day Stress,0.008,High risk,98.58,Some stress,How is you Day-to-Day Stress
+11,Often Feels Scared,-0.031,High risk,98.58,No,Fearful or scared for no good reason
+11,Abuse and Violence,0.213,High risk,98.58,Yes,Do you suffer from Abuse and Violence
+11,Relationship With Mother,0.039,High risk,98.58,Some problems with mother,How is your Relationship With your Mother
+11,Makes Family Proud,0.383,High risk,98.58,Sometimes,I make my family proud 
+11,Bothered by Gambling,0.16,High risk,98.58,Never,Are there ever times when Gambling bothers you?
+11,Day-to-Day Worries,0.24,High risk,98.58,Some worries,How is you Day-to-Day Worries
+11,Panic/Physical Symptoms,0.263,High risk,98.58,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+11,Money Worries,-0.172,High risk,98.58,No,How is you Money Worries
+11,Family Perception,0.054,High risk,98.58,Sometimes I make my family proud,How my family sees me
+11,Strong Mum,0.88,High risk,98.58,Sometimes,I feel strong about being a mum
+11,Goal Likely,0.083,High risk,98.58,A Lot,How likely is it that you will do your goals?
+11,Keeping Safety Plan,-0.223,High risk,98.58,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+11,Family Gambles,-0.114,High risk,98.58,No,What about people close to you? Do they gamble?
+11,Smoking Cigarettes in Pregnancy,0.054,High risk,98.58,No,Have you smoked cigarettes in Pregnancy?
+11,First Pregnancy,0.175,High risk,98.58,Yes,Is this your first pregnancy?
+11,Need Help With Housing,0.07,High risk,98.58,No,Do you Need help to Secure housing
+11,Feeling Worried,0.434,High risk,98.58,Yes,Do you feel Worried
+11,Told Partner/Husband,0.031,High risk,98.58,No,Have you Told Partner/Husband
+11,Cannabis Use,-0.023,High risk,98.58,No,Cannabis Use
+12,Feeling Lonely,0.982,High risk,78.28,Sometimes,"I feel lonely, like I don't belong or fit in"
+12,Life Not Worth Living,-0.011,High risk,78.28,Never,"Recently, I feel like life is not worth living"
+12,Blaming Herself,-0.017,High risk,78.28,A Little,I blame myself when things go wrong
+12,Feeling No Good,-0.017,High risk,78.28,No,Feeling Unwell
+12,Quick to Anger,-0.341,High risk,78.28,Hardly ever,I get angry real quick
+12,Feeling Happy,0.099,High risk,78.28,Often,I feel happy in myself
+12,Has Washing Machine,0.006,High risk,78.28,No,Do you have Washing Machine?
+12,Feeling Alone,-0.034,High risk,78.28,No,Are you Feeling Alone
+12,Trouble Sleeping,0.279,High risk,78.28,Trouble Sleeping,Do you have Trouble Sleeping
+12,Managing Day-to-Day,0.516,High risk,78.28,Struggle A Bit,How are you Managing Day-to-Day
+12,Crying A Lot,-0.034,High risk,78.28,No,Do you Cry A Lot
+12,Family Support,-0.232,High risk,78.28,Solid strong support,Do you have Family Support
+12,Happy In Myself,0.088,High risk,78.28,No,Are you Happy In yourself
+12,Fresh Food Available,0.021,High risk,78.28,No,Do you have Fresh Food Available
+12,Day-to-Day Stress,0.008,High risk,78.28,Some stress,How is you Day-to-Day Stress
+12,Often Feels Scared,0.459,High risk,78.28,Yes,Fearful or scared for no good reason
+12,Abuse and Violence,-0.048,High risk,78.28,No,Do you suffer from Abuse and Violence
+12,Relationship With Mother,-0.012,High risk,78.28,No problems with mother,How is your Relationship With your Mother
+12,Makes Family Proud,0.064,High risk,78.28,Often,I make my family proud 
+12,Bothered by Gambling,0.16,High risk,78.28,Never,Are there ever times when Gambling bothers you?
+12,Day-to-Day Worries,0.24,High risk,78.28,Some worries,How is you Day-to-Day Worries
+12,Panic/Physical Symptoms,0.263,High risk,78.28,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+12,Money Worries,-0.172,High risk,78.28,No,How is you Money Worries
+12,Family Perception,-0.067,High risk,78.28,I know I make my family proud,How my family sees me
+12,Strong Mum,0.364,High risk,78.28,Often,I feel strong about being a mum
+12,Goal Likely,0.083,High risk,78.28,A Lot,How likely is it that you will do your goals?
+12,Keeping Safety Plan,-0.223,High risk,78.28,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+12,Family Gambles,-0.114,High risk,78.28,No,What about people close to you? Do they gamble?
+12,Children in Her Care,0.043,High risk,78.28,1,How many of these children are in your care?
+12,First Pregnancy,-0.048,High risk,78.28,No,Is this your first pregnancy?
+12,Need Help With Housing,0.07,High risk,78.28,No,Do you Need help to Secure housing
+12,Previous Births,0.004,High risk,78.28,1,How many previous births have you had?
+12,Told Partner/Husband,-0.018,High risk,78.28,Yes,Have you Told Partner/Husband
+13,Feeling Lonely,0.982,High risk,91.86,Sometimes,"I feel lonely, like I don't belong or fit in"
+13,Life Not Worth Living,-0.011,High risk,91.86,Never,"Recently, I feel like life is not worth living"
+13,Blaming Herself,0.545,High risk,91.86,Sometimes,I blame myself when things go wrong
+13,Feeling No Good,-0.017,High risk,91.86,No,Feeling Unwell
+13,Quick to Anger,-0.341,High risk,91.86,Hardly ever,I get angry real quick
+13,Feeling Happy,0.674,High risk,91.86,Sometimes,I feel happy in myself
+13,Has Washing Machine,0.006,High risk,91.86,No,Do you have Washing Machine?
+13,Feeling Alone,0.257,High risk,91.86,Yes,Are you Feeling Alone
+13,Trouble Sleeping,0.279,High risk,91.86,Trouble Sleeping,Do you have Trouble Sleeping
+13,Managing Day-to-Day,0.516,High risk,91.86,Struggle A Bit,How are you Managing Day-to-Day
+13,Crying A Lot,-0.034,High risk,91.86,No,Do you Cry A Lot
+13,Family Support,-0.004,High risk,91.86,Sometimes support,Do you have Family Support
+13,Happy In Myself,0.088,High risk,91.86,No,Are you Happy In yourself
+13,Fresh Food Available,0.021,High risk,91.86,No,Do you have Fresh Food Available
+13,Day-to-Day Stress,0.008,High risk,91.86,Some stress,How is you Day-to-Day Stress
+13,Often Feels Scared,-0.031,High risk,91.86,No,Fearful or scared for no good reason
+13,Abuse and Violence,-0.048,High risk,91.86,No,Do you suffer from Abuse and Violence
+13,Relationship With Mother,0.039,High risk,91.86,Some problems with mother,How is your Relationship With your Mother
+13,Makes Family Proud,0.383,High risk,91.86,Sometimes,I make my family proud 
+13,Bothered by Gambling,0.16,High risk,91.86,Never,Are there ever times when Gambling bothers you?
+13,Day-to-Day Worries,0.24,High risk,91.86,Some worries,How is you Day-to-Day Worries
+13,Panic/Physical Symptoms,-0.033,High risk,91.86,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+13,Money Worries,-0.172,High risk,91.86,No,How is you Money Worries
+13,Family Perception,0.054,High risk,91.86,Sometimes I make my family proud,How my family sees me
+13,Strong Mum,0.88,High risk,91.86,Sometimes,I feel strong about being a mum
+13,Keeping Safety Plan,-0.223,High risk,91.86,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+13,Children in Her Care,0.043,High risk,91.86,0,How many of these children are in your care?
+13,Smoking Cigarettes in Pregnancy,0.054,High risk,91.86,No,Have you smoked cigarettes in Pregnancy?
+13,First Pregnancy,-0.048,High risk,91.86,No,Is this your first pregnancy?
+13,Need Help With Housing,0.07,High risk,91.86,No,Do you Need help to Secure housing
+13,Previous Births,0.004,High risk,91.86,1,How many previous births have you had?
+13,Feeling Worried,0.434,High risk,91.86,Yes,Do you feel Worried
+13,Told Partner/Husband,-0.018,High risk,91.86,Yes,Have you Told Partner/Husband
+14,Feeling Lonely,-0.341,High risk,55.75,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+14,Life Not Worth Living,-0.011,High risk,55.75,Never,"Recently, I feel like life is not worth living"
+14,Blaming Herself,-0.017,High risk,55.75,A Little,I blame myself when things go wrong
+14,Feeling No Good,-0.017,High risk,55.75,No,Feeling Unwell
+14,Quick to Anger,-0.341,High risk,55.75,Hardly ever,I get angry real quick
+14,Feeling Happy,0.674,High risk,55.75,A little,I feel happy in myself
+14,Has Washing Machine,0.006,High risk,55.75,No,Do you have Washing Machine?
+14,Feeling Alone,-0.034,High risk,55.75,No,Are you Feeling Alone
+14,Trouble Sleeping,-0.07,High risk,55.75,Sleeping Well,Do you have Trouble Sleeping
+14,Managing Day-to-Day,0.516,High risk,55.75,Struggle A Bit,How are you Managing Day-to-Day
+14,Crying A Lot,-0.034,High risk,55.75,No,Do you Cry A Lot
+14,Family Support,-0.232,High risk,55.75,Solid strong support,Do you have Family Support
+14,Happy In Myself,-0.08,High risk,55.75,Yes,Are you Happy In yourself
+14,Fresh Food Available,0.021,High risk,55.75,No,Do you have Fresh Food Available
+14,Day-to-Day Stress,0.008,High risk,55.75,Some stress,How is you Day-to-Day Stress
+14,Often Feels Scared,-0.031,High risk,55.75,No,Fearful or scared for no good reason
+14,Abuse and Violence,-0.048,High risk,55.75,No,Do you suffer from Abuse and Violence
+14,Relationship With Mother,-0.012,High risk,55.75,No problems with mother,How is your Relationship With your Mother
+14,Makes Family Proud,0.064,High risk,55.75,Often,I make my family proud 
+14,Bothered by Gambling,0.16,High risk,55.75,Never,Are there ever times when Gambling bothers you?
+14,Day-to-Day Worries,0.24,High risk,55.75,Some worries,How is you Day-to-Day Worries
+14,Panic/Physical Symptoms,-0.033,High risk,55.75,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+14,Money Worries,0.506,High risk,55.75,Yes,How is you Money Worries
+14,Family Perception,-0.067,High risk,55.75,I know I make my family proud,How my family sees me
+14,Strong Mum,0.88,High risk,55.75,Sometimes,I feel strong about being a mum
+14,Goal Likely,0.083,High risk,55.75,A Lot,How likely is it that you will do your goals?
+14,Keeping Safety Plan,-0.223,High risk,55.75,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+14,Family Gambles,-0.114,High risk,55.75,No,What about people close to you? Do they gamble?
+14,Children in Her Care,-0.125,High risk,55.75,2,How many of these children are in your care?
+14,Smoking Cigarettes in Pregnancy,0.054,High risk,55.75,No,Have you smoked cigarettes in Pregnancy?
+14,First Pregnancy,-0.048,High risk,55.75,No,Is this your first pregnancy?
+14,Need Help With Housing,0.07,High risk,55.75,No,Do you Need help to Secure housing
+14,Previous Births,-0.022,High risk,55.75,2,How many previous births have you had?
+14,Told Partner/Husband,-0.018,High risk,55.75,Yes,Have you Told Partner/Husband
+14,Cannabis Use,-0.023,High risk,55.75,No,Cannabis Use
+15,Feeling Lonely,0.982,High risk,94.5,Sometimes,"I feel lonely, like I don't belong or fit in"
+15,Life Not Worth Living,0.98,High risk,94.5,Sometimes,"Recently, I feel like life is not worth living"
+15,Blaming Herself,-0.017,High risk,94.5,A Little,I blame myself when things go wrong
+15,Feeling No Good,0.176,High risk,94.5,Yes,Feeling Unwell
+15,Quick to Anger,-0.224,High risk,94.5,A little,I get angry real quick
+15,Feeling Happy,0.099,High risk,94.5,Often,I feel happy in myself
+15,Has Washing Machine,0.006,High risk,94.5,No,Do you have Washing Machine?
+15,Feeling Alone,0.257,High risk,94.5,Yes,Are you Feeling Alone
+15,Trouble Sleeping,0.279,High risk,94.5,Trouble Sleeping,Do you have Trouble Sleeping
+15,Managing Day-to-Day,0.516,High risk,94.5,Struggle A Bit,How are you Managing Day-to-Day
+15,Crying A Lot,0.185,High risk,94.5,Yes,Do you Cry A Lot
+15,Family Support,-0.004,High risk,94.5,Sometimes support,Do you have Family Support
+15,Happy In Myself,0.088,High risk,94.5,No,Are you Happy In yourself
+15,Fresh Food Available,0.021,High risk,94.5,No,Do you have Fresh Food Available
+15,Day-to-Day Stress,0.008,High risk,94.5,Some stress,How is you Day-to-Day Stress
+15,Often Feels Scared,-0.031,High risk,94.5,No,Fearful or scared for no good reason
+15,Abuse and Violence,-0.048,High risk,94.5,No,Do you suffer from Abuse and Violence
+15,Relationship With Mother,0.039,High risk,94.5,Don't want to say,How is your Relationship With your Mother
+15,Makes Family Proud,0.383,High risk,94.5,A Little,I make my family proud 
+15,Bothered by Gambling,0.16,High risk,94.5,Never,Are there ever times when Gambling bothers you?
+15,Day-to-Day Worries,0.24,High risk,94.5,Too many worries,How is you Day-to-Day Worries
+15,Panic/Physical Symptoms,-0.033,High risk,94.5,No,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+15,Money Worries,-0.172,High risk,94.5,No,How is you Money Worries
+15,Family Perception,0.054,High risk,94.5,I rarely make my family proud,How my family sees me
+15,Strong Mum,0.88,High risk,94.5,A Little,I feel strong about being a mum
+15,Goal Likely,0.083,High risk,94.5,A Lot,How likely is it that you will do your goals?
+15,Keeping Safety Plan,-0.223,High risk,94.5,Client Agrees,Do you agree to make a plan to keep safe to deal with the safety worries
+15,Family Gambles,-0.114,High risk,94.5,No,What about people close to you? Do they gamble?
+15,Children in Her Care,0.043,High risk,94.5,0,How many of these children are in your care?
+15,Smoking Cigarettes in Pregnancy,-0.276,High risk,94.5,Yes,Have you smoked cigarettes in Pregnancy?
+15,First Pregnancy,-0.048,High risk,94.5,No,Is this your first pregnancy?
+15,Need Help With Housing,-0.411,High risk,94.5,Yes,Do you Need help to Secure housing
+15,Previous Births,-0.022,High risk,94.5,2,How many previous births have you had?
+15,Feeling Worried,0.434,High risk,94.5,Yes,Do you feel Worried
+15,Told Partner/Husband,-0.018,High risk,94.5,Yes,Have you Told Partner/Husband
+15,Cannabis Use,0.225,High risk,94.5,Yes,Cannabis Use
+16,Feeling Lonely,-0.341,Low risk,64.48,Hardly Ever,"I feel lonely, like I don't belong or fit in"
+16,Life Not Worth Living,-0.011,Low risk,64.48,Never,"Recently, I feel like life is not worth living"
+16,Blaming Herself,-0.017,Low risk,64.48,A Little,I blame myself when things go wrong
+16,Feeling No Good,0.176,Low risk,64.48,Yes,Feeling Unwell
+16,Quick to Anger,-0.341,Low risk,64.48,Hardly ever,I get angry real quick
+16,Feeling Happy,-0.342,Low risk,64.48,Almost always,I feel happy in myself
+16,Has Washing Machine,0.006,Low risk,64.48,No,Do you have Washing Machine?
+16,Feeling Alone,0.257,Low risk,64.48,Yes,Are you Feeling Alone
+16,Trouble Sleeping,0.279,Low risk,64.48,Trouble Sleeping,Do you have Trouble Sleeping
+16,Managing Day-to-Day,0.516,Low risk,64.48,Struggle A Lot,How are you Managing Day-to-Day
+16,Crying A Lot,0.185,Low risk,64.48,Yes,Do you Cry A Lot
+16,Family Support,-0.004,Low risk,64.48,Don't want to say,Do you have Family Support
+16,Happy In Myself,0.088,Low risk,64.48,No,Are you Happy In yourself
+16,Fresh Food Available,0.021,Low risk,64.48,No,Do you have Fresh Food Available
+16,Day-to-Day Stress,0.008,Low risk,64.48,Too much stress,How is you Day-to-Day Stress
+16,Often Feels Scared,0.459,Low risk,64.48,Yes,Fearful or scared for no good reason
+16,Abuse and Violence,-0.048,Low risk,64.48,No,Do you suffer from Abuse and Violence
+16,Relationship With Mother,0.039,Low risk,64.48,Don't want to say,How is your Relationship With your Mother
+16,Makes Family Proud,-0.183,Low risk,64.48,Almost Always,I make my family proud 
+16,Bothered by Gambling,0.16,Low risk,64.48,Never,Are there ever times when Gambling bothers you?
+16,Day-to-Day Worries,0.24,Low risk,64.48,Too many worries,How is you Day-to-Day Worries
+16,Panic/Physical Symptoms,0.263,Low risk,64.48,Yes,"Heart beats fast, dizzy, tight chest or head or panicky for no good reason"
+16,Money Worries,0.506,Low risk,64.48,Yes,How is you Money Worries
+16,Family Perception,0.054,Low risk,64.48,Sometimes I make my family proud,How my family sees me
+16,Strong Mum,-0.213,Low risk,64.48,Almost Always,I feel strong about being a mum
+16,Keeping Safety Plan,-0.067,Low risk,64.48,Does Not Agree,Do you agree to make a plan to keep safe to deal with the safety worries
+16,Family Gambles,-0.114,Low risk,64.48,No,What about people close to you? Do they gamble?
+16,Children in Her Care,0.043,Low risk,64.48,1,How many of these children are in your care?
+16,Smoking Cigarettes in Pregnancy,0.024,Low risk,64.48,Sometimes,Have you smoked cigarettes in Pregnancy?
+16,First Pregnancy,-0.048,Low risk,64.48,No,Is this your first pregnancy?
+16,Need Help With Housing,0.07,Low risk,64.48,No,Do you Need help to Secure housing
+16,Previous Births,0.004,Low risk,64.48,1,How many previous births have you had?
+16,Told Partner/Husband,-0.018,Low risk,64.48,Yes,Have you Told Partner/Husband
+16,Cannabis Use,-0.023,Low risk,64.48,No,Cannabis Use
